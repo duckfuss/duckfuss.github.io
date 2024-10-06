@@ -43,7 +43,7 @@ The last independent review of the Met Police's internal culture stated[^2]:
 4. The Met under-protects and over-polices Black Londoners  
 > "We have found institutional racism, misogyny and homophobia in the Met." - Baroness Casey of blahblah  
 
-pretty damming huh?
+_pretty damming huh?_
 
 ik that you will maybe not-believe this report, despite it being written by someone who _knowsMoreThanYou<sup>TM</sup>_, so here are some more examples:
 - murder of stephen lawrence (the key report of which only came out only 10 yrs before obama took office)[^3]
