@@ -112,6 +112,10 @@ I could keep going, list private companies, heck I haven't even started on Ameri
 
 </details>
 
+--------------------------------------------------------------------------------
+
+
+
 [^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
 [^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
 [^3]: https://en.wikipedia.org/wiki/Institutional_racism_in_the_Metropolitan_Police
@@ -124,27 +128,41 @@ I could keep going, list private companies, heck I haven't even started on Ameri
   
 >“Whites *by far* have the least in group out group bias”
 
-
-
-
 </details>
 
-## 3. BLM bad bc riots or smthn
+--------------------------------------------------------------------------------
+
+
+
+<details>
+<summary>Opinion 3: <h2>BLM bad bc riots or smthn</h2></summary>
+
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
 
 Racism is a cancer, _please_ tell me you're not chainsmoking this fascist crap
 
-## 4. Black ppl genetically dumber
+</details>
+
+--------------------------------------------------------------------------------
+
+
+
+<details>
+<summary>Opinion 4: <h2>Black ppl genetically dumber</h2></summary>
+
 >I think a similar reason to you in that I think the arguments for a social explanation have little substance logically speaking (racism = lower IQ, why? Seems mainly to be an emotional response) and whilst the data is far from conclusive, when looking at the fact that richer black people have similar iq to poorer whites and that the racial iq gap has not significantly changed, I don't see reasons to believe it's societal
 >
 >...I think it's [genetics] the simpler, less convoluted explanation and that it would be more appealing if people didn't have to tread so carefully on this topic
 
 >Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
 
+</details>
+
+--------------------------------------------------------------------------------
+
+
 
 <details>
-
-
 <summary>Opinion 5: <h2>Obama racist </h2></summary>
 
 >"Obama ran in 2008 as the great unifier but in 2012 appealed much more to the more left wing base and to minorities. His rhetoric was deeply divisive and presided over race riots like Ferguson (after Michael Brown) and Baltimore"
@@ -185,6 +203,10 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
   - And as I'm sure you're aware, these riots riots only happened when a large peacful protest was disrupted by a minority of violent thugs.
   - People were protesting the increase in racism they saw. That this increase in racial tensions coincided with the first black POTUS don't surpise me, ppl are generally resistive to change. But long term i _hope_ u would believe Obama has done alot to help stamp racism out.
 </details>
+
+--------------------------------------------------------------------------------
+
+
 
 ## 5. Asian work ethic ≠ reason for high IQ scores
 >I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
