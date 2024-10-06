@@ -13,28 +13,60 @@ Here are some of your opinons, debunked
 > - This clearly does not put you in the best position to discuss this topic - for whilst you ofc can discuss it freely, you just lack any _personal_ experience (which counts for something imo)
 
 
-## White ppl aren't very racist
->“Whites *by far* have the least in group out group bias”
 
-## Systematic racism doesn't exist
+## Institutional racism doesn't exist
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
 Really?, _really_?, __*really*__??  
 You really believe this **crap**???   
 
-By _"system racism"_ i assume you mean systematic/institutional racism - how on earth is it a bad thing to bring systematic racism into the limelight?  
+By _"system racism"_ i assume you mean systematic/institutional racism - how on earth is it a bad thing to bring institutional racism into the limelight?  
 
-### ...so you think systematic racism doesn't exist?  
+### ...so you think institutional racism doesn't exist?  
 Rather than list of reasons why you are absolutely and utterly stupid, I think it'll more constructive to convince you that it does.
 lets first take a look at a definition:
+
 >#### institutional racism  
 >noun  
 >UK  /ˌɪn.stɪˌtʃuː.ʃən.əl ˈreɪ.sɪ.zəm/ US  /ˌɪn.stəˌtuː.ʃən.əl ˈreɪ.sɪ.zəm/  
 >policies, rules, practices, etc. that are a usual part of the way an organization works, and that result in and support a continued unfair advantage to some people and unfair or harmful treatment of others based on race  [^1]
 
+Seems simple enough. Any org. in which one race (e.g. whites) have an unfair advantage over another (e.g. blacks) counts as posessing institutional racism.
+
+Lets explore some org.s that fit that definition...
+
+#### Evidence for systematic racism in the Met police
+The last independent review of the Met Police's internal culture stated[^2]:
+1. Clearly not everyone in the Met is racist, but there are racists and people with racist attitudes within the organisation
+2. Black and ethnic minority officers and staff experience racism at work and it is routinely ignored, dismissed, or not spoken about. Many do not think it is worth reporting
+3. Racism and racial bias are reinforced within Met systems
+4. The Met under-protects and over-polices Black Londoners  
+> "We have found institutional racism, misogyny and homophobia in the Met." - Baroness Casey of blahblah  
+
+pretty damming huh?
+
+ik that you will maybe not-believe this report, despite it being written by someone who _knowsMoreThanYou<sup>TM</sup>_, so here are some more examples:
+- murder of stephen lawrence (the key report of which only came out only 10 yrs before obama took office)[^3]
+- murder of Jean Charles de Menezes (brazillian) in 2005 (only 4 years before obama took office)[^3]
+- 2019 child strip search statistics[^3]
+  -  75% of strip searches from ethinically diverse backgrounds
+  -  *75%* is **NOT** acceptable, whatever you may say about black crime
+  -  Is it not horrifying that (based of ethnicicty) I am 3/4s more likely to be strip searched than you?
+- murder of Chris Kaba (a black man shot by the police in **2022**)[^3]
+  - and yet this kinda thing is a "thing of the past???"
+  - this isn't even going into american politics, this happend a **fucking** **30 mile drive away from us**, is that not in the least concerning?
+- during the pandemic black ppl were **217% as likely** as white ppl to be issued a fine for lockdown breaches? [^3]
+  - this statistic holds up even when adjusted for neighbourhood composition
+- 
+
+[^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
+[^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
+[^3]: https://en.wikipedia.org/wiki/Institutional_racism_in_the_Metropolitan_Police
 
 
 
+## White ppl aren't very racist
+>“Whites *by far* have the least in group out group bias”
 
 
 ## BLM bad bc riots or smthn
@@ -57,4 +89,4 @@ lets first take a look at a definition:
 ## solomaan
 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐
 
-[^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
+
