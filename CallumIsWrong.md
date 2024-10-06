@@ -16,10 +16,8 @@ I'm genuinely concerned, **please, please, please read this!!!**
 Here are some of your opinons, debunked...
 
 <details>
+<summary> <h2> 1. Institutional racism... </h2></summary>
 
-<summary> 1. Institutional racism... </summary>
-
-## 1. Institutional racism doesn't exist
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
 Really?, _really_?, __*really*__??  
@@ -105,10 +103,11 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 [^5]: https://en.wikipedia.org/wiki/Institutional_racism#United_Kingdom
 
 
-
-## 2. White ppl aren't very racist 🥴
->“Whites *by far* have the least in group out group bias”
-
+<details>
+<summary> <h2> 2. White ppl aren't very racist 🥴 </h2></summary>
+  
+  >“Whites *by far* have the least in group out group bias”
+</details>
 
 ## 3. BLM bad bc riots or smthn
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
