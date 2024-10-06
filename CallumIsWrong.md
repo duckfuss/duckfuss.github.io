@@ -5,16 +5,21 @@ permalink: /CallumIsWrong/
 ---
 # Callum🥕, we need to talk
 
-I'm genuinely concerned  
-Here are some of your opinons, debunked
+I'm genuinely concerned, **please, please, please read this!!!**  
+
 
 > ### ⚠️  Important:
 > - No offence, but remember that you have no experience with racism
-> - This clearly does not put you in the best position to discuss this topic - for whilst you ofc can discuss it freely, you just lack any _personal_ experience (which counts for something imo)
+> - Whilst you ofc can discuss it freely, you just lack any _personal_ experience (which does count for something imo)
+>   - This is not to discourage debate or discussion. 
 
+Here are some of your opinons, debunked...
 
+<details>
 
-## 1. Institutional racism doesn't exist 
+<summary> 1. Institutional racism... </summary>
+
+## 1. Institutional racism doesn't exist
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
 Really?, _really_?, __*really*__??  
@@ -90,6 +95,8 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 - If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income
 - **How** is that not evidence for prevelant institutional racism?
   - ‼️maybe allah isn't all that akbar after all eh‼️
+
+</details>
 
 [^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
 [^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
