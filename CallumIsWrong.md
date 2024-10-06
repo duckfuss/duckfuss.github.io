@@ -124,10 +124,11 @@ I could keep going, list private companies, heck I haven't even started on Ameri
 
 
 <details>
-<summary>Opinion 2: <h2> 2. White ppl aren't very racist 🥴 </h2></summary>
+<summary>Opinion 2: <h2> 2. White ppl aren't infact very racist towards others 🥴 </h2></summary>
   
 >“Whites *by far* have the least in group out group bias”
 
+now this one is really quite pathetic
 </details>
 
 --------------------------------------------------------------------------------
