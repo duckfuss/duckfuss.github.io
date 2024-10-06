@@ -26,7 +26,7 @@ Here are some of your opinons, debunked...
 Really?, _really_?, __*really*__??  
 You really believe this **crap**???   
 
-By _"system racism"_ i assume you mean systematic/institutional racism - how on earth is it a bad thing to bring institutional racism into the limelight?  
+By _"system racism"_ i assume you mean systematic/institutional racism - how on earth is it a bad thing to bring institutional racism into the limelight??  
 
 ### ...so you think institutional racism doesn't exist?  
 Rather than list of reasons why you are absolutely and utterly stupid, I think it'll more constructive to convince you that it does.
@@ -41,7 +41,7 @@ Seems simple enough. Any org. in which one race (e.g. whites) have an unfair adv
 
 #### what institutional racism does NOT mean:
 - only a white's problem
-- that everyone in the institution is racist
+- that _everyone_ in the institution is racist
 - that _anyone_ in the institution is openly or otherwise consciously racist
 
 Lets explore some org.s that fit that definition...
@@ -54,7 +54,7 @@ The last independent review of the Met Police's internal culture stated[^2]:
 4. The Met under-protects and over-polices Black Londoners  
 > "We have found institutional racism, misogyny and homophobia in the Met." - Baroness Casey of blahblah 
 
-_😬 pretty damming huh?_
+_😬 pretty damming huh?_ feels more like it ought to be from 1960 not 2023.
 
 ik that you will maybe not-believe this report, despite it being written by someone who _knowsMoreThanYou<sup>TM</sup>_, so here are some more examples:
 - murder of stephen lawrence (the key report of which only came out only 10 yrs before obama took office)[^3]
@@ -71,6 +71,12 @@ ik that you will maybe not-believe this report, despite it being written by some
 - within the police, black officeres describe being treated _"like animals"_ and that the racism was **getting worse** [^4]
   - so much for things are always much better rn eh?
 
+the funny thing is i previously thought police racism was a USA-centic issue, that atleast in the UK police were OK, welp nope.  
+ik it's worse in the US but _surely_ you must agree that racism does **exist** within our law enforcement, _surely_ you must see that **all** the **independant** reports commisioned by the gov. agree with this conclusion. To deny this would _surely_ be to deny what's a universally seen upon truth by all who have competent reasoning skills. Im not sayign you don't have competent reasoning skills, im just saying ppl who deny this shit, claim it doesn't exist etc. are either:
+1. naive
+2. dumb
+3. racist
+
 ### UK Prisons
 - if you're not white and commit a crime, it is a fact that you are more likely to go to jail than if you were
   - 50% of youth immates are minorities [^5]
@@ -82,20 +88,27 @@ ik that you will maybe not-believe this report, despite it being written by some
 - Black women are 2x as likely to have a stillborn baby than white women [^5]
 How on earth is that acceptable
 Yes there are physical differences between races in terms of the ease of pregancy, but:
-a) not enough to account for a fucking 2x increase.
-b) even if there were significant differences, doctors in the uk should learn better how to treat different races,
-  - this IS possible given other countries where uk minorities are the majority have similar success rates to the uk
+1) not enough to account for a fucking 2x increase.
+2) even if there were significant differences, doctors in the uk should learn better how to treat different races,
+    - this IS possible given other countries where uk minorities are the majority have similar success rates to the uk
 
 ### In the education system
-yes the *goddam education ssytem*, the **last place we want racism**
+yes the *goddam education sytem*, the **last place we want racism**
 - is it not _slightly_ sobering that black students are far more likely to recieve **under predicted grades** by their teachers [^5]
 - is this not the **ultimate** damming evidence of institutional racism???,  
-i mean jesus christ if black kids are given a 2nd class education from the start, how tf can we expect them to perform equally as adults on shit like IQ tests?
+i mean jesus christ if black kids are given a 2nd class education from the start, how **tf** can we expect them to perform equally as adults on shit like IQ tests?
 
 ### Income inequality
 - If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income [^5]
 - **How** is that not evidence for prevelant institutional racism?
   - ‼️maybe allah isn't all that akbar after all eh‼️
+
+I could keep going, list private companies, heck I haven't even started on America, but i think that there is enough evidence infront of you for any sane man to make the correct jugdment
+
+### conclusion 1
+- if some races are **set up to fail** by the very institutions setup to help us, the institutions that we all rely upon to govern, teach, police and treat, is it not surprising that obamam might want to discuss this???
+- do you not see how naive and cynical it is to spit out shit like "obama's rhetoric was deeply [racially] divisive", I struggle to believe that you would even for a second seriously consider obama for running on some racially inflamatory agenda.
+- this will be adressed in the obama section below
 
 </details>
 
@@ -109,12 +122,17 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 <details>
 <summary>Opinion 2: <h2> 2. White ppl aren't very racist 🥴 </h2></summary>
   
-  >“Whites *by far* have the least in group out group bias”
+>“Whites *by far* have the least in group out group bias”
+
+hmmm i wonder why
+
+
 </details>
 
 ## 3. BLM bad bc riots or smthn
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
 
+Racism is a cancer, _please_ tell me you're not chainsmoking this fascist crap
 
 ## 4. Black ppl genetically dumber
 >I think a similar reason to you in that I think the arguments for a social explanation have little substance logically speaking (racism = lower IQ, why? Seems mainly to be an emotional response) and whilst the data is far from conclusive, when looking at the fact that richer black people have similar iq to poorer whites and that the racial iq gap has not significantly changed, I don't see reasons to believe it's societal
@@ -122,6 +140,11 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 >...I think it's [genetics] the simpler, less convoluted explanation and that it would be more appealing if people didn't have to tread so carefully on this topic
 
 >Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
+
+## 5. Obama racist
+>"Obama ran in 2008 as the great unifier but in 2012 appealed much more to the more left wing base and to minorities. His rhetoric was deeply divisive and presided over race riots like Ferguson (after Michael Brown) and Baltimore"
+
+>"The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
 ## 5. Asian work ethic ≠ reason for high IQ scores
 >I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
