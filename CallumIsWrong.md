@@ -93,7 +93,7 @@ yes the *goddam education ssytem*, the **last place we want racism**
 i mean jesus christ if black kids are given a 2nd class education from the start, how tf can we expect them to perform equally as adults on shit like IQ tests?
 
 ### Income inequality
-- If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income
+- If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income [^5]
 - **How** is that not evidence for prevelant institutional racism?
   - ‼️maybe allah isn't all that akbar after all eh‼️
 
@@ -124,9 +124,9 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 >Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
 
 ## 5. Asian work ethic ≠ reason for high IQ scores
->I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ - Henry (who is correct)
+>I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
 >
->I also question the extent to which IQ can be increased this way - Callum
+> (in response) I also question the extent to which IQ can be increased this way - Callum
 
 
 ## solomaan
