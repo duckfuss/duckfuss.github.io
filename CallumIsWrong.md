@@ -124,7 +124,7 @@ I could keep going, list private companies, heck I haven't even started on Ameri
   
 >“Whites *by far* have the least in group out group bias”
 
-hmmm i wonder why
+
 
 
 </details>
@@ -141,10 +141,50 @@ Racism is a cancer, _please_ tell me you're not chainsmoking this fascist crap
 
 >Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
 
-## 5. Obama racist
+
+<details>
+
+
+<summary>Opinion 5: <h2>Obama racist </h2></summary>
+
 >"Obama ran in 2008 as the great unifier but in 2012 appealed much more to the more left wing base and to minorities. His rhetoric was deeply divisive and presided over race riots like Ferguson (after Michael Brown) and Baltimore"
 
 >"The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
+
+This one troubles me.  
+How can you look at Obama, the first black president of the USA, and see him as a cause of racism?  
+Did racism increase during his tenure?, sure maybe?  
+Was that because of Obama, or because of Obama's skin colour?  
+People (including Trump pbuh) became racist and virile towards Obama. Was that because of Obama, or because Obama, by the very nature of being Black brought out the pre-existing racism already prevelant throughout the country?  
+
+
+### wait but the graphs, the graphs...
+- Correlation ≠ causation Callum.
+- Obama helped draw racism into the spotlight, largely due to all the increased racism directed **at him** (e.g. birther conspriacy theorists)
+- so how would an incrased knowledge and understanding of racism, especially the much more subtle aspects of it, affect your graphs?
+- exactly, they'd _appear_ as if racism was getting worse after obama when in reality all that happened was people started too understand the full extent of it all.
+
+### wait but the riots, the riots...
+IDK how riots occuring under Obama is supposed to imply Obama chose to cause racial division, i.e. that somehow it was Obama's fault.
+- Yes Obama may have been the cause, ppl in the nation not ready for his truths on racism might've felt need to draw imaginary lines along skin tones
+- Yes because of this increased tension racial division might've increased
+- Yes because ppl felt both empowered by having a Black POTUS and outraged by the increased hate, riots happened
+- Yes riots are bad.
+
+BUT the primary cause of the riots WAS NOT:
+- Obama
+- the average black person
+- the average white person
+
+It was **racism**  
+this shouldn't be hard to understand 🥕, just bc Obama talked about racism, and made racists angry does **not** mean that obama was in the wrong. The ppl that were angry (and in this case the rioters who chose to violently counter the racists) are in the wrong. 
+
+### Conclusion:
+- You are claiming Obama's rhetoric was "deeply divisive" only based off the end reaction. The problem here was not the rhetoric, but that divided reaction.
+- **We should _not_ look at racial riots and come to the conclusion that racism should be swept under the carpet.**
+  - And as I'm sure you're aware, these riots riots only happened when a large peacful protest was disrupted by a minority of violent thugs.
+  - People were protesting the increase in racism they saw. That this increase in racial tensions coincided with the first black POTUS don't surpise me, ppl are generally resistive to change. But long term i _hope_ u would believe Obama has done alot to help stamp racism out.
+</details>
 
 ## 5. Asian work ethic ≠ reason for high IQ scores
 >I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
