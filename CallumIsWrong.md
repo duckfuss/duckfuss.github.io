@@ -3,7 +3,7 @@ layout: page
 title: "racially motivated"
 permalink: /CallumIsWrong/
 ---
-# Callum we need to talk
+# Callum🥕, we need to talk
 
 I'm genuinely concerned  
 Here are some of your opinons, debunked
@@ -14,7 +14,7 @@ Here are some of your opinons, debunked
 
 
 
-## 1. Institutional racism doesn't exist
+## 1. Institutional racism doesn't exist 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
 Really?, _really_?, __*really*__??  
@@ -46,9 +46,9 @@ The last independent review of the Met Police's internal culture stated[^2]:
 2. Black and ethnic minority officers and staff experience racism at work and it is routinely ignored, dismissed, or not spoken about. Many do not think it is worth reporting
 3. Racism and racial bias are reinforced within Met systems
 4. The Met under-protects and over-polices Black Londoners  
-> "We have found institutional racism, misogyny and homophobia in the Met." - Baroness Casey of blahblah  
+> "We have found institutional racism, misogyny and homophobia in the Met." - Baroness Casey of blahblah 
 
-_pretty damming huh?_
+_😬 pretty damming huh?_
 
 ik that you will maybe not-believe this report, despite it being written by someone who _knowsMoreThanYou<sup>TM</sup>_, so here are some more examples:
 - murder of stephen lawrence (the key report of which only came out only 10 yrs before obama took office)[^3]
@@ -89,6 +89,7 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 ### Income inequality
 - If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income
 - **How** is that not evidence for prevelant institutional racism?
+  - ‼️maybe allah isn't all that akbar after all eh‼️
 
 [^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
 [^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
@@ -98,7 +99,7 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 
 
 
-## 2. White ppl aren't very racist
+## 2. White ppl aren't very racist 🥴
 >“Whites *by far* have the least in group out group bias”
 
 
