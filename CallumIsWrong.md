@@ -8,7 +8,7 @@ permalink: /CallumIsWrong/
 I'm genuinely concerned  
 Here are some of your opinons, debunked
 
-> [!CAUTION]
+> ### Preamble
 > - No offence, but remember that you have no experience with racism
 > - This clearly does not put you in the best position to discuss this topic - for whilst you ofc can discuss it freely, you just lack any _personal_ experience (which counts for something imo)
 
