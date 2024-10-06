@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "CallumWrong"
+title: "racially motivated"
 permalink: /CallumIsWrong/
 ---
 # Callum is wrong
 ## soloman is a goat
+
+# 🐐
