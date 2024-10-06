@@ -33,6 +33,11 @@ lets first take a look at a definition:
 
 Seems simple enough. Any org. in which one race (e.g. whites) have an unfair advantage over another (e.g. blacks) counts as posessing institutional racism.
 
+#### what institutional racism does NOT mean:
+- only a white's problem
+- that everyone in the institution is racist
+- that _anyone_ in the institution is openly or otherwise consciously racist
+
 Lets explore some org.s that fit that definition...
 
 ### Evidence for systematic racism in the Met police
@@ -74,8 +79,14 @@ Yes there are physical differences between races in terms of the ease of preganc
 a) not enough to account for a fucking 2x increase.
 b) even if there were significant differences, doctors in the uk should learn better how to treat different races,
   - this IS possible given other countries where uk minorities are the majority have similar success rates to the uk
-  
-### Income
+
+### In the education system
+yes the *goddam education ssytem*, the **last place we want racism**
+- is it not _slightly_ sobering that black students are far more likely to recieve **under predicted grades** by their teachers [^5]
+- is this not the **ultimate** damming evidence of institutional racism???,  
+i mean jesus christ if black kids are given a 2nd class education from the start, how tf can we expect them to perform equally as adults on shit like IQ tests?
+
+### Income inequality
 - If you're black and you have the same degree as a white person, you will on average end up with 27.1% less income
 - **How** is that not evidence for prevelant institutional racism?
 
@@ -84,6 +95,7 @@ b) even if there were significant differences, doctors in the uk should learn be
 [^3]: https://en.wikipedia.org/wiki/Institutional_racism_in_the_Metropolitan_Police
 [^4]: https://www.bbc.co.uk/news/articles/crger07nx4lo
 [^5]: https://en.wikipedia.org/wiki/Institutional_racism#United_Kingdom
+
 
 
 ## 2. White ppl aren't very racist
