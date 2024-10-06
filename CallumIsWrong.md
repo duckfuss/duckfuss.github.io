@@ -9,14 +9,17 @@ I'm genuinely concerned, **please, please, please read this!!!**
 
 
 > ### ⚠️  Important:
-> - No offence, but remember that you have no experience with racism
+> - No offence, but remember that you have no personal experience with racism
+>   - when someone chooses to pick on you, or decides they dislike you, it has likely never been bc of your race
+>   - you've never had someone pass you in a corridor and whisper or yell a slur at you
+>   - there is something particularly degrading about being picked on _for no other reason than your skin colour_ that you will likely **never** understand
 > - Whilst you ofc can discuss it freely, you just lack any _personal_ experience (which does count for something imo)
->   - This is not to discourage debate or discussion. 
+>   - This is not to discourage debate or discussion....  
 
 Here are some of your opinons, debunked...
 
 <details>
-<summary> <h2> 1. Institutional racism... </h2></summary>
+<summary> Point 1: <h2> 1. Institutional racism... </h2></summary>
 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
