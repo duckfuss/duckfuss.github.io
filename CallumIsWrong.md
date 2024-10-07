@@ -208,12 +208,23 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 --------------------------------------------------------------------------------
 
 
+<details>
+<summary>Opinion 6: <h2>Asian work ethic ≠ reason for high IQ scores</h2></summary>
 
-## 5. Asian work ethic ≠ reason for high IQ scores
 >I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
 >
 > (in response) I also question the extent to which IQ can be increased this way - Callum
 
+I just wanted to quickly address this, this is wrong.
+
+</details>
+
+--------------------------------------------------------------------------------
+
+<details>
+<summary>Opinion 7: <h2>diddy did nothing wrong</h2></summary>
+what an opinion
+</details>
 
 ## solomaan
 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐
