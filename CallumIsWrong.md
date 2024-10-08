@@ -129,7 +129,7 @@ I could keep going, list private companies, heck I haven't even started on Ameri
 now this one is really quite pathetic for a few reasons:
 1. It simply isn't a universally agreed upon fact (as implied by the wording "by *far*") [^6]
 	1. I for example think that it is wrong
-2. *Even* if it were true, the disparity between races some white's have historically subjugated and currently racially target white's in-group favouritism is, imo, clearly caused by that abuse.
+2. *Even* if it were true, the disparity between races some white's have historically subjugated (and currently racially target) and white's in-group favouritism is, imo, clearly caused by that abuse.
 3. It carries the **strong** insinuation that white's aren't racist, or white's are somehow the least racist. which is _**wrong***_
 	1. don't even for a second dare claim this isn't the case or you were unaware of this insinuation - don't patronise me pls.
 
