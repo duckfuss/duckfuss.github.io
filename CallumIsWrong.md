@@ -109,7 +109,7 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 I could keep going, list private companies, heck I haven't even started on America, but i think that there is enough evidence infront of you for any sane man to make the correct jugdment
 
 ### conclusion
-- if some races are **set up to fail** by the very institutions setup to help us, the institutions that we all rely upon to govern, teach, police and treat, is it not surprising that obamam might want to discuss this???
+- if some races are **set up to fail** by the very institutions setup to help us, the institutions that we all rely upon to govern, teach, police and treat, is it not surprising that obama might want to discuss this???
 - do you not see how naive and cynical it is to spit out shit like "obama's rhetoric was deeply [racially] divisive", I struggle to believe that you would even for a second seriously consider obama for running on some racially inflamatory agenda.
 - this will be adressed in the obama section below
 
@@ -119,11 +119,6 @@ I could keep going, list private companies, heck I haven't even started on Ameri
 
 
 
-[^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
-[^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
-[^3]: https://en.wikipedia.org/wiki/Institutional_racism_in_the_Metropolitan_Police
-[^4]: https://www.bbc.co.uk/news/articles/crger07nx4lo
-[^5]: https://en.wikipedia.org/wiki/Institutional_racism#United_Kingdom
 
 
 <details>
@@ -172,6 +167,7 @@ Lets try address the first point:
 
    Hi callum, This paragraph may not sound familiar eh?, well ask any minority and you'd struggle to find someone who has not experienced racism. Just because Callum 🥕 hasn't doesn't mean we haven't. ok? So don't go round telling us we're wrong to say that racism still very much exists.
 now for the second - in fact imma put this in it's own section up top.
+
 
 
 </details>
@@ -236,10 +232,6 @@ I hope you get what i'm getting at here Callum.
 well here we are eh, I would thus **strongly** argue that, with you, Callum, as a prime example, that what has caused the increase in racial tensions was not BLM, but the **polarising** media's portrayal of it. After all we live in an economy where polarisation = money & votes. Don't be so daft to view an *incredibly* peaceful anti racism protest as the cause of this polarisation. It was the stupid fucking snakes that seek to use small news about small riots to further their own selfish racist means. As I said earlier, racism is a cancer, _please_ tell me you're *not* **chain-smoking this crap.**
 
 
-[^9]:https://www.washingtonpost.com/politics/2020/10/16/this-summers-black-lives-matter-protesters-were-overwhelming-peaceful-our-research-finds/
-[^10]:https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5
-[^11]:https://www.washingtonpost.com/politics/2021/10/12/critics-claim-blm-was-more-violent-than-1960s-civil-rights-protests-thats-just-not-true/
-[^12]:https://apnews.com/article/trump-rape-carroll-trial-fe68259a4b98bb3947d42af9ec83d7db
 
 </details>
 
@@ -298,6 +290,7 @@ It was **racism**
 this shouldn't be hard to understand 🥕, just bc Obama talked about racism, and made racists angry does **not** mean that obama was in the wrong. The ppl that were angry (and in this case the rioters who chose to violently counter the racists) are in the wrong. 
 
 ### Conclusion:
+- firstly just wow, how is Obama more divisive than that convivted sexual abuser you so adore [^12]
 - You are claiming Obama's rhetoric was "deeply divisive" only based off the end reaction. The problem here was not the rhetoric, but that divided reaction.
 - **We should _not_ look at racial riots and come to the conclusion that racism should be swept under the carpet.**
   - And as I'm sure you're aware, these riots riots only happened when a large peacful protest was disrupted by a minority of violent thugs.
@@ -328,4 +321,16 @@ what an opinion
 ## solomaan
 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐
 
+[^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
+[^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
+[^3]: https://en.wikipedia.org/wiki/Institutional_racism_in_the_Metropolitan_Police
+[^4]: https://www.bbc.co.uk/news/articles/crger07nx4lo
+[^5]: https://en.wikipedia.org/wiki/Institutional_racism#United_Kingdom
+[^6]: https://www.pewresearch.org/social-trends/2015/08/19/exploring-racial-bias-among-biracial-and-single-race-adults-the-iat/
+[^7]:https://blogs.lse.ac.uk/businessreview/2022/02/10/ingroup-privilege-can-drain-workplaces-of-wellbeing-and-creativity/
+[^8]:https://en.wikipedia.org/wiki/Ethnic_enclave
+[^9]: https://www.washingtonpost.com/politics/2020/10/16/this-summers-black-lives-matter-protesters-were-overwhelming-peaceful-our-research-finds/
+[^10]: https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5
+[^11]: https://www.washingtonpost.com/politics/2021/10/12/critics-claim-blm-was-more-violent-than-1960s-civil-rights-protests-thats-just-not-true/
+[^12]: https://apnews.com/article/trump-rape-carroll-trial-fe68259a4b98bb3947d42af9ec83d7db
 
