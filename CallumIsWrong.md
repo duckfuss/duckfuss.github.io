@@ -9,6 +9,9 @@ I'm genuinely concerned, **please, please, please read this!!!**
 
 
 > ### ⚠️  Important:
+> - I do **not** believe you are a racist, however I do believe you are severely misguided and hold, in spite of your better intentions, some views I would class as such.
+>     -  nobody is calling u a racist, nobody is saying all white people are racist. It's ofc tough when some of your race has historically been so racist, but this is not a reflection upon you, nor anyone else.
+>     -  **BUT** it is _wrong_ to try counteract the efforts of us now to try deal with the after-effects of white supremacy. Ideas don't just disapear, so **how the fucking fuck** is educating ppl about diversity and inclusion a "bad" thing?
 > - No offence, but remember that you have no personal experience with racism
 >   - when someone chooses to pick on you, or decides they dislike you, it has likely never been bc of your race
 >   - you've never had someone pass you in a corridor and whisper or yell a slur at you
@@ -128,7 +131,49 @@ I could keep going, list private companies, heck I haven't even started on Ameri
   
 >“Whites *by far* have the least in group out group bias”
 
-now this one is really quite pathetic
+now this one is really quite pathetic for a few reasons:
+1. It simply isn't a universally agreed upon fact (as implied by the wording "by *far*") [^6]
+	1. I for example think that it is wrong
+2. *Even* if it were true, the disparity between races some white's have historically subjugated and currently racially target white's in-group favouritism is, imo, clearly caused by that abuse.
+3. It carries the **strong** insinuation that white's aren't racist, or white's are somehow the least racist. which is _**wrong***_
+	1. don't even for a second dare claim this isn't the case or you were unaware of this insinuation - don't patronise me pls.
+
+### 2.1 is that really so true?
+- Stop 🛑., Stop scrolling **twat**ter for one damn second.
+	- pause and think, is that really true, or is the dude waffling at me through my youtube echo chamber a little biased and maybe presenting the facts differently?
+	- remember **you can find evidence for _anything_**, from the moon landings were faked to cell towers cause COVID.
+- There is plenty of evidence showing white's as having the most in group out group bias [^6] so I strongly dispute that assertion, and even then the margins are quite small
+	- 50% of whites favour will actively (but subconsciously) favour whites over asians; 42% of asians favour asians over asians. [^6]
+		- 50%!!!, now you may claim the number is a bit lower, but it must surely still be **significant**
+		- how is that ok???
+	- In times of crises, why are black labourers both paid and employed less?, racism?, in group favouritism?[^7]
+- Ik you won't care to see my evidence bc u obv prefer yours, but my hope is that by showing you evidence **against** you point exists, you will understand that the literature isn't so cut and dry, and that maybe your position isn't so definite.
+	- Don't let ur **hubris** prevent yourself from seeing objectively
+
+so you still don't believe me?, well...
+### 2.2 If it were true, does it matter?:
+- So what?, white ppl feel less desire to hate others. I think what this really shows is how much white ppl currently, but *subconsciously* so they don't believe it happens, discriminate against other races.
+- Parents of minorities have to bring up their children to be wary of racism, to be aware of it, and to try counter it. This simply isn't always the case in white households, for it does not pose a direct issue to white ppl (in the uk)
+	- Thus I would argue white people are less aware of racism, and thus less likely to want to stick together
+- When you are a minority, the feeling of "needing to stick together" with ppl "like you" is exacerbated, there is no need for white ppl to stick together in the uk, but there is a level of protection, and easier communication when between those with similar minority cultural backgrounds.
+	- hence why communities like "little India" and "Chinatown" form [^8]
+- And when the majority race is white, I would argue any racism matters more in a utilitarian sense, it has a worse average impact of your racist and white, bc on average you are in a greater position of power.
+
+### 2.3 Racism and white people
+oof what a large subject, I will only touch on this, but it's worth mentioning because:
+1. You would only have made that assertion ("whites have ... out-group bias") had you believed that racism was no longer that big an issue. (don't try deny this Callum, i'm not stupid)
+2. You would only have made that assertion had you believed that maybe you feel *threatened* or felt *accused* of as being racist. - this one I kinda get, but to try be some anti-woke sheeple is the **wrong** response
+Lets try address the first point:
+1. racism **is** a big issue - even I, in sheltered North Ascot have experienced it (once in your fucking presence too📣)
+2. Minorities (primarily black ppl tbh) are often targets of unacceptable levels of institutional racism (question: what is an acceptable level for you?) and subconscious bias.
+	- oh yeah, forgot you didn't believe in subconscious bias. We've been there before but if u push the point I can write up another crap essay on the topic to try save ur ass.
+3. Blatant racism is ofc less than it used to be, but is **still prevalent**, and still **bad**
+4. Here I will make an argument you dislike, but I see as true:
+
+   Hi callum, This paragraph may not sound familiar eh?, well ask any minority and you'd struggle to find someone who has not experienced racism. Just because Callum 🥕 hasn't doesn't mean we haven't. ok? So don't go round telling us we're wrong to say that racism still very much exists.
+now for the second - in fact imma put this in it's own section up top.
+
+
 </details>
 
 --------------------------------------------------------------------------------
