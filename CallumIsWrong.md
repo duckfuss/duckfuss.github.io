@@ -237,25 +237,8 @@ well here we are eh, I would thus **strongly** argue that, with you, Callum, as 
 
 --------------------------------------------------------------------------------
 
-
-
 <details>
-<summary>Opinion 4: <h2> 4. Black ppl genetically dumber</h2></summary>
-
->I think a similar reason to you in that I think the arguments for a social explanation have little substance logically speaking (racism = lower IQ, why? Seems mainly to be an emotional response) and whilst the data is far from conclusive, when looking at the fact that richer black people have similar iq to poorer whites and that the racial iq gap has not significantly changed, I don't see reasons to believe it's societal
->
->...I think it's [genetics] the simpler, less convoluted explanation and that it would be more appealing if people didn't have to tread so carefully on this topic
-
->Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
-
-</details>
-
---------------------------------------------------------------------------------
-
-
-
-<details>
-<summary>Opinion 5: <h2>5. Obama racist </h2></summary>
+<summary>Opinion 4: <h2>4. Obama racist </h2></summary>
 
 >"Obama ran in 2008 as the great unifier but in 2012 appealed much more to the more left wing base and to minorities. His rhetoric was deeply divisive and presided over race riots like Ferguson (after Michael Brown) and Baltimore"
 
@@ -296,6 +279,28 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
   - And as I'm sure you're aware, these riots riots only happened when a large peacful protest was disrupted by a minority of violent thugs.
   - People were protesting the increase in racism they saw. That this increase in racial tensions coincided with the first black POTUS don't surpise me, ppl are generally resistive to change. But long term i _hope_ u would believe Obama has done alot to help stamp racism out.
 </details>
+
+
+
+--------------------------------------------------------------------------------
+<details>
+<summary>Opinion 5: <h2> 5. Black ppl genetically dumber</h2></summary>
+
+>I think a similar reason to you in that I think the arguments for a social explanation have little substance logically speaking (racism = lower IQ, why? Seems mainly to be an emotional response) and whilst the data is far from conclusive, when looking at the fact that richer black people have similar iq to poorer whites and that the racial iq gap has not significantly changed, I don't see reasons to believe it's societal
+>
+>...I think it's [genetics] the simpler, less convoluted explanation and that it would be more appealing if people didn't have to tread so carefully on this topic
+
+>Fine, jfc, I'll just agree that I think it's more likely than not it [genetics] significantly explains it [IQ gap between races]
+
+### The evidence problem
+- you lack evidence to back this claim up
+- I have provided evidence in the gc to back my counter claim up
+- I will update this later ig if icbf.
+
+</details>
+
+
+
 
 --------------------------------------------------------------------------------
 
