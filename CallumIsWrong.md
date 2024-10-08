@@ -22,7 +22,7 @@ I'm genuinely concerned, **please, please, please read this!!!**
 Here are some of your opinons, debunked...
 
 <details>
-<summary> Opinion 1: <h2>Institutional racism... </h2></summary>
+<summary> Opinion 1: <h2>1. Institutional racism... </h2></summary>
 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"  
 
@@ -181,7 +181,7 @@ now for the second - in fact imma put this in it's own section up top.
 
 
 <details>
-<summary>Opinion 3: <h2>BLM bad bc riots or smthn</h2></summary>
+<summary>Opinion 3: <h2> 3. BLM bad bc riots or smthn</h2></summary>
 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
 
@@ -248,7 +248,7 @@ well here we are eh, I would thus **strongly** argue that, with you, Callum, as 
 
 
 <details>
-<summary>Opinion 4: <h2>Black ppl genetically dumber</h2></summary>
+<summary>Opinion 4: <h2> 4. Black ppl genetically dumber</h2></summary>
 
 >I think a similar reason to you in that I think the arguments for a social explanation have little substance logically speaking (racism = lower IQ, why? Seems mainly to be an emotional response) and whilst the data is far from conclusive, when looking at the fact that richer black people have similar iq to poorer whites and that the racial iq gap has not significantly changed, I don't see reasons to believe it's societal
 >
@@ -263,7 +263,7 @@ well here we are eh, I would thus **strongly** argue that, with you, Callum, as 
 
 
 <details>
-<summary>Opinion 5: <h2>Obama racist </h2></summary>
+<summary>Opinion 5: <h2>5. Obama racist </h2></summary>
 
 >"Obama ran in 2008 as the great unifier but in 2012 appealed much more to the more left wing base and to minorities. His rhetoric was deeply divisive and presided over race riots like Ferguson (after Michael Brown) and Baltimore"
 
@@ -308,7 +308,7 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 
 
 <details>
-<summary>Opinion 6: <h2>Asian work ethic ≠ reason for high IQ scores</h2></summary>
+<summary>Opinion 6: <h2>6. Asian work ethic ≠ reason for high IQ scores</h2></summary>
 
 >I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
 >
