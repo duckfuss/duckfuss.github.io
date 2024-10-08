@@ -185,7 +185,7 @@ now for the second - in fact imma put this in it's own section up top.
 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
 
-### rage against the (facist) machine
+### rage against the (facist) machine 🤬
 Now i'm beyond anger, and into just sheer confusion. The idea that before BLM, race relations were "really pretty good" is showing **stratospheric levels of naivety**, ignorance that exists beyond the Oort cloud. If you had claimed Jesus was a moose named **Jeffery Dahmer** I would still posses a higher level confidence in your ability to **think thoughts**. If you told me that lampshades cause bowel cancer in earthworms I would still consider your opinion an opinion. However I do _not_ consider your claim to be anything but a *startlingly dangerous falsehood* from what is supposedly a rather clever brain. We both know how the internet likes to distort the truth, how it allows **absofuckingidiots** to portray themselves and their cult as mainstream and acceptable. Racism is a cancer, _please_ tell me you're *not* **chain-smoking this crap.**
 
 But who am I kidding, humorous metaphors do fuck all to convince someone they're wrong, so lemme try another angle.
@@ -203,7 +203,7 @@ But who am I kidding, humorous metaphors do fuck all to convince someone they're
 	- police feel it's ok to do shit like this
 	- police hire ppl like you (jk-ish)
 - If the very ppl we are supposed to report racism to, are **overflowing** with it, how tf do you expect the problem to even **start** going away?
-	- ooh good question, should we:
+	- ooh good question🙋, should we:
 		1. wait till society somehow changes on it's own?
 		2. deny the problem ever existed?
 		3. engage in peaceful protest and force ppl to listen?
@@ -225,7 +225,7 @@ But who am I kidding, humorous metaphors do fuck all to convince someone they're
 - wait so the protest weren't that violent after all huh?
 	- but what was it my favourite convicted sexual abuser[^12] said? 
 		- oh wait he's a dipshit who serves only to fuel racial divisions.
-		- still boggles my mind u, 🥕, can view Obama as fuelling racial divisions but Trump[^12] as a successful all round ok guy
+		- still boggles my mind u, 🥕🤡, can view Obama as fuelling racial divisions but Trump[^12] as a successful all round ok guy
 		- this leads quite nicely into....
 
 ### when a small riot becomes a right wing media stratophenomenon
