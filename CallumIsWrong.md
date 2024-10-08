@@ -115,6 +115,7 @@ I could keep going, list private companies, heck I haven't even started on Ameri
 
 </details>
 
+--------------------------------------------------------------------------------
 
 
 
@@ -172,6 +173,7 @@ now for the second - in fact imma put this in it's own section up top.
 
 </details>
 
+--------------------------------------------------------------------------------
 
 
 
@@ -237,6 +239,7 @@ well here we are eh, I would thus **strongly** argue that, with you, Callum, as 
 
 
 
+--------------------------------------------------------------------------------
 
 
 
@@ -286,6 +289,7 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 
 
 
+--------------------------------------------------------------------------------
 
 
 
@@ -308,6 +312,7 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 
 
 
+--------------------------------------------------------------------------------
 
 
 
@@ -324,6 +329,7 @@ I just wanted to quickly address this, this is wrong.
 </details>
 
 
+--------------------------------------------------------------------------------
 
 
 
@@ -332,6 +338,9 @@ I just wanted to quickly address this, this is wrong.
 <summary>Opinion 7: <h2>diddy did nothing wrong</h2></summary>
 what an opinion
 </details>
+
+--------------------------------------------------------------------------------
+
 
 <details>
 <summary><h2>solomaaaaan</h2></summary>
