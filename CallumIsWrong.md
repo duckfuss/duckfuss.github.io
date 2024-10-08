@@ -323,8 +323,10 @@ I just wanted to quickly address this, this is wrong.
 what an opinion
 </details>
 
-## solomaan
+<details>
+<summary><h2>solomaaaaan</h2></summary>
 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐
+</details>
 
 [^1]: https://dictionary.cambridge.org/dictionary/english/institutional-racism
 [^2]: https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf
