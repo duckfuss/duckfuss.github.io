@@ -108,7 +108,7 @@ i mean jesus christ if black kids are given a 2nd class education from the start
 
 I could keep going, list private companies, heck I haven't even started on America, but i think that there is enough evidence infront of you for any sane man to make the correct jugdment
 
-### conclusion 1
+### conclusion
 - if some races are **set up to fail** by the very institutions setup to help us, the institutions that we all rely upon to govern, teach, police and treat, is it not surprising that obamam might want to discuss this???
 - do you not see how naive and cynical it is to spit out shit like "obama's rhetoric was deeply [racially] divisive", I struggle to believe that you would even for a second seriously consider obama for running on some racially inflamatory agenda.
 - this will be adressed in the obama section below
@@ -162,7 +162,7 @@ so you still don't believe me?, well...
 ### 2.3 Racism and white people
 oof what a large subject, I will only touch on this, but it's worth mentioning because:
 1. You would only have made that assertion ("whites have ... out-group bias") had you believed that racism was no longer that big an issue. (don't try deny this Callum, i'm not stupid)
-2. You would only have made that assertion had you believed that maybe you feel *threatened* or felt *accused* of as being racist. - this one I kinda get, but to try be some anti-woke sheeple is the **wrong** response
+2. You would only have made that assertion had you perhaps felt *threatened* or *accused* of as being racist. - this one I kinda get, but to try be some anti-woke sheeple is the **wrong** response
 Lets try address the first point:
 1. racism **is** a big issue - even I, in sheltered North Ascot have experienced it (once in your fucking presence too📣)
 2. Minorities (primarily black ppl tbh) are often targets of unacceptable levels of institutional racism (question: what is an acceptable level for you?) and subconscious bias.
@@ -185,7 +185,61 @@ now for the second - in fact imma put this in it's own section up top.
 
 > "The fact is, race relations were really pretty good before Obama started going on about system racism and we had blm and stuff"
 
-Racism is a cancer, _please_ tell me you're not chainsmoking this fascist crap
+### rage against the (facist) machine
+Now i'm beyond anger, and into just sheer confusion. The idea that before BLM, race relations were "really pretty good" is showing **stratospheric levels of naivety**, ignorance that exists beyond the Oort cloud. If you had claimed Jesus was a moose named **Jeffery Dahmer** I would still posses a higher level confidence in your ability to think thoughts. If you told me that lampshades cause cancer I would still consider your opinion an opinion. However I do not consider your claim to be anything but a *startlingly dangerous falsehood* from what is supposed to be a rather clever brain. We both know how the internet likes to distort truth, how it allows **absofuckingidiots** to portray themselves and their cult as mainstream and acceptable. Racism is a cancer, _please_ tell me you're *not* **chain-smoking this crap.**
+
+But who am I kidding, humorous metaphors do fuck all to convince someone they're wrong, so lemme try another angle.
+
+### lets first define what "really pretty good" race relations ISN'T
+- Here's a questionnaire for you, is the racially motivated murder of innocent black men by police:
+	1) good race relations
+	2) *pretty* good race relations
+	3) **really** *pretty* good race relations
+- Woah trick question, bet you didn't see that coming eh.
+- Turns out it's neither. A society where police will randomly murder ppl of a specific race on a whim (in quite a brutal fashion) is NOT "really pretty good"
+	- things might've been "really pretty good" for those unaware of the extent of these racism problems. But I'm sure for ppl living under it things really fucking weren't really pretty good.
+- There are clearly multiple issues with a society where:
+	- police feel that they can get away with shit like this
+	- police feel it's ok to do shit like this
+	- police hire ppl like you (jk-ish)
+- If the very ppl we are supposed to report racism to, are **overflowing** with it, how tf do you expect the problem to even **start** going away?
+	- ooh good question, should we:
+		1. wait till society somehow changes on it's own?
+		2. deny the problem ever existed?
+		3. engage in peaceful protest and force ppl to listen?
+	- I hope you agree that of these options, no.3 is best, or at least no.3 is an option many people would choose, and one that should improve circumstances
+### when the racially motivated murder of black ppl by cops leads to a peaceful protest
+- So people decided to protest huh. This wasn't just because of one single crime, but rather the collective venting of deep ingrained racism in the police forces and beyond
+- I'm sure you'd agree protest is counterintuitively a sign of thriving democracy, that people can peacefully exercise that right is paramount, whether you agree with them or not. 
+  *(obv within limits etc. but I'm sure you have no problem with protest in this context)*
+- I would also *hope* you would agree with people protesting racism. 
+	- (Racism bad and prevalent ∴ ***Anti*-racism** protest **good** and **necessary** no?)
+- I would also hope that by now you don't believe race relations were "really pretty good", or at least you can observe the sheer number of people who deemed race relations really not good enough that they were motivated to dedicate their free time towards organising and/or attending protests
+	- nobody is walking down roads for the hell of it eh, ppl feel a need to address and bring racism into the open.
+
+### when a small section of a peaceful protest becomes a very small riot
+- I think you'd struggle to disagree that *peaceful* protest = good, and that anti-racism protest = good
+- So why *why* ***WHY*** is it so hard to understand that rioters do **not** represent the protesters???
+	- 96% of demonstrations were peaceful and resulted in no property damage [^9][^10]
+	- Compare this with 89% during the civil right's movement. - which were nearly 3x more violent. [^11]
+- wait so the protest weren't that violent after all huh?
+	- but what was it my favourite convicted sexual abuser[^12] said? 
+		- oh wait he's a dipshit who serves only to fuel racial divisions.
+		- still boggles my mind u, 🥕, can view Obama as fuelling racial divisions but Trump[^12] as a successful all round ok guy
+		- this leads quite nicely into....
+
+### when a small riot becomes a right wing media stratophenomenon
+- so a **not so big** riot meets your not so smart "journalist" who's only objective is to farm impressions on his article over the internet - what happens?
+- then a not so smart friend reads that piece of "journalism" - what happens?
+I hope you get what i'm getting at here Callum.
+### when a media stratophenomenon starts fuelling racial division
+well here we are eh, I would thus **strongly** argue that, with you, Callum, as a prime example, that what has caused the increase in racial tensions was not BLM, but the **polarising** media's portrayal of it. After all we live in an economy where polarisation = money & votes. Don't be so daft to view an *incredibly* peaceful anti racism protest as the cause of this polarisation. It was the stupid fucking snakes that seek to use small news about small riots to further their own selfish racist means. As I said earlier, racism is a cancer, _please_ tell me you're *not* **chain-smoking this crap.**
+
+
+[^9]:https://www.washingtonpost.com/politics/2020/10/16/this-summers-black-lives-matter-protesters-were-overwhelming-peaceful-our-research-finds/
+[^10]:https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5
+[^11]:https://www.washingtonpost.com/politics/2021/10/12/critics-claim-blm-was-more-violent-than-1960s-civil-rights-protests-thats-just-not-true/
+[^12]:https://apnews.com/article/trump-rape-carroll-trial-fe68259a4b98bb3947d42af9ec83d7db
 
 </details>
 
