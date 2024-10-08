@@ -5,7 +5,7 @@ permalink: /CallumIsWrong/
 ---
 # Callum🥕, we need to talk
 
-I'm genuinely concerned, **please, please, please read this!!!**  
+I'm genuinely concerned, **please, please, please read this in its entirety!!!**  
 
 
 > ### ⚠️  Important:
