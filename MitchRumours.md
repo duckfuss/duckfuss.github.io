@@ -9,6 +9,6 @@ permalink: /MitchRumours/
 - 26 people dead
 
 # james mitchell spotted sailed nuclear submarine out of devonport
-DOD concerned
+- DOD concerned
 
 # james mitchell googles dequavious pork pay
