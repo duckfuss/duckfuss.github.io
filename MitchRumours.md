@@ -3,6 +3,7 @@ layout: page
 title: "MitchRumours"
 permalink: /MitchRumours/
 ---
+<marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
 # james mitchell spotted stalling at roundabout
 - 26 people dead
@@ -17,4 +18,5 @@ permalink: /MitchRumours/
 # james mitchell is "sick at chess" according to james mitchell
 - reliable source
 
-<marquee> Here is some scrolling text... right to left!</marquee> 
+<marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
+
