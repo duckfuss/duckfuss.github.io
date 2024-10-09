@@ -1,3 +1,3 @@
-# duckfuss.github.io
+# hullo
 personal website?
 what is this
