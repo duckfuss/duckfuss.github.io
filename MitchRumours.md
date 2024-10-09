@@ -5,7 +5,6 @@ permalink: /MitchRumours/
 comments: true
 ---
 
-
 # james mitchell spotted stalling at roundabout
 - 26 people dead
 
