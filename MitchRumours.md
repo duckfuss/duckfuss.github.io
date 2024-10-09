@@ -12,7 +12,8 @@ permalink: /MitchRumours/
 - DOD concerned
 
 # james mitchell googles dequavious pork pay
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSalinas%2Fcomments%2F1emufus%2Fany_one_know_any_businesses_that_accept%2F&psig=AOvVaw3QHzanfmf_JQbCbHaAPw1x&ust=1728559484805000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC49oKYgYkDFQAAAAAdAAAAABAU"/>
+![dequaviouspork](https://github.com/user-attachments/assets/d1f1ff98-178b-419d-ba22-bf8001aa5809)
+
 
 # james mitchell is "sick at chess" according to james mitchell
 - reliable source
