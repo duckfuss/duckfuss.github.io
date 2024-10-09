@@ -18,6 +18,7 @@ permalink: /MitchRumours/
 # james mitchell is "sick at chess" according to james mitchell
 - reliable source
 
+# james mitchell is a certified martian
 <marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
 
