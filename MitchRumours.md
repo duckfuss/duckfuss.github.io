@@ -2,6 +2,7 @@
 layout: page
 title: "MitchRumours"
 permalink: /MitchRumours/
+comments: true
 ---
 
 
