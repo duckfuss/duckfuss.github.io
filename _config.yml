@@ -3,5 +3,6 @@ markdown: GFM
 theme: minima
 header_pages:
   - MitchRumours.md
-  disqus:
-    shortname: https-duckfuss-github-io-mitchrumours
+disqus:
+  shortname: https-duckfuss-github-io-mitchrumours
+url: https://duckfuss.github.io/MitchRumours/
