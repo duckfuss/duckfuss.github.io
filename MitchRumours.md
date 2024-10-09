@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "racially motivated"
+title: "MitchRumours"
 permalink: /MitchRumours/
 ---
 
