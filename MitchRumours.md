@@ -20,3 +20,18 @@ permalink: /MitchRumours/
 
 <marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
+<script src="https://giscus.app/client.js"
+        data-repo="duckfuss/duckfuss.github.io"
+        data-repo-id="R_kgDOM8RXzg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOM8RXzs4CjNB-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
