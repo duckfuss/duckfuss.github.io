@@ -2,7 +2,6 @@
 layout: page
 title: "MitchRumours"
 permalink: /MitchRumours/
-comments: true
 ---
 
 # james mitchell spotted stalling at roundabout
