@@ -23,5 +23,5 @@ permalink: /MitchRumours/
 # james mitchell is a certified martian
 <marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
-# james mitchell killed John Pork on amerian holiday
+# james mitchell killed John Pork on holiday
 <img src="https://github.com/user-attachments/assets/3e68b443-988d-498f-be1e-16e44d72c0af" width="500" height="300">
