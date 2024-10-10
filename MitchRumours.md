@@ -16,6 +16,18 @@ permalink: /MitchRumours/
 # james mitchell googles dequavious pork pay
 ![dequaviouspork](https://github.com/user-attachments/assets/d1f1ff98-178b-419d-ba22-bf8001aa5809)
 
+<marquee
+  direction="up"
+  behavior="alternate"
+  width="250"
+  height="200"
+  style="border:solid">
+  <marquee behavior="alternate">
+    <!-- This image bounces from the edges of the screen -->
+    <img height="40" src="https://github.com/user-attachments/assets/7b088d2c-8639-4a37-b1e7-46b352c4cf50" />
+  </marquee>
+</marquee>
+
 
 # james mitchell is "sick at chess" according to james mitchell
 - reliable source
