@@ -37,6 +37,7 @@ permalink: /MitchRumours/
 
 # james mitchell killed John Pork on holiday
 <img src="https://github.com/user-attachments/assets/3e68b443-988d-498f-be1e-16e44d72c0af" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/48c4fc47-e2cb-4be8-857b-97a9c34c316f" width="500" height="300">
 
 # james mitchell causes house fire
 - he says he was soldering a light emmitting diode
