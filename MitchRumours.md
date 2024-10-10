@@ -33,4 +33,5 @@ permalink: /MitchRumours/
 <marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
 
 
-
+## comment below
+- if you don't want to go through sign up proccess, click submit as guest (last checkbox after you click "comment")
