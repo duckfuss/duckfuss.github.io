@@ -21,7 +21,8 @@ permalink: /MitchRumours/
 - reliable source
 
 # james mitchell is a certified martian
-<marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
+- cinar
+
 
 # james mitchell killed John Pork on holiday
 <img src="https://github.com/user-attachments/assets/3e68b443-988d-498f-be1e-16e44d72c0af" width="500" height="300">
@@ -29,3 +30,5 @@ permalink: /MitchRumours/
 # james mitchell causes house fire
 - he says he was soldering a light emmitting diode
 - police suspect foul play
+
+<marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
