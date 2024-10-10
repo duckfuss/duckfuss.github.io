@@ -47,5 +47,5 @@ permalink: /MitchRumours/
 
 
 ## comment below
-- if you don't want to go through sign up proccess, click submit as guest (last checkbox after you click "comment")
+- if you don't want to go through sign up proccess, **click submit as guest** (last checkbox after you click "comment")
 > NOTE: this site has the explicit blessing of the man himself
