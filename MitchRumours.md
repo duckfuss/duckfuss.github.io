@@ -5,6 +5,8 @@ permalink: /MitchRumours/
 ---
 <marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
+<img src="https://github.com/user-attachments/assets/17445ae8-764c-4c44-a60e-5de8bdb75b7b" width="1000" height="250">
+
 # james mitchell spotted stalling at roundabout
 - 26 people dead
 
