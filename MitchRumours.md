@@ -22,5 +22,5 @@ permalink: /MitchRumours/
 <marquee> 🚨🚨🚨JAMES SPOTTED AT DIDDY PARTY🚨🚨🚨</marquee> 
 
 # james mitchell killed John Pork on amerian holiday
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/3e68b443-988d-498f-be1e-16e44d72c0af)" width="100" height="100">
+<img src="(https://github.com/user-attachments/assets/3e68b443-988d-498f-be1e-16e44d72c0af)" width="100" height="100">
 
