@@ -49,6 +49,17 @@ permalink: /MitchRumours/
 <marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
 
 
-## comment below
+# james seen zero starring both his clan war attacks
+- police concerned; social services contacted
+
+# local mechanics warn of "skidmark warning lights"
+- mitchell taken into custody as a potential suspect
+
+# james mitchell leaves his pantaloons in school changing rooms
+<img src="https://github.com/user-attachments/assets/27bcffec-c9d8-4165-8344-72a18bc21fa8" width="500" height="300">
+
+
+
+# comment below
 - if you don't want to go through sign up proccess, **click submit as guest** (last checkbox after you click "comment")
 > NOTE: this site has the explicit blessing of the man himself
