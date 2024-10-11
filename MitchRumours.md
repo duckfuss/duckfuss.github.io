@@ -48,6 +48,8 @@ permalink: /MitchRumours/
 
 <marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
 
+# james mitchell house raided: vaseline
+- 1000 bottles of vaseline added
 
 # james seen zero starring both his clan war attacks
 - police concerned; social services contacted
