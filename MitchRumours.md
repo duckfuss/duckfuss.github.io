@@ -43,6 +43,9 @@ permalink: /MitchRumours/
 - he says he was soldering a light emmitting diode
 - police suspect foul play
 
+# james mitchell pride ally
+<img src="https://github.com/user-attachments/assets/c6ce40c1-ca88-4aaf-b96e-55ae22c2e64c" width="500" height="300">
+
 <marquee>🚨🚨🚨Esptein island closed for rennovations, james involved🚨🚨🚨</marquee> 
 
 
