@@ -60,6 +60,9 @@ permalink: /MitchRumours/
 # james mitchell leaves his pantaloons in school changing rooms
 <img src="https://github.com/user-attachments/assets/27bcffec-c9d8-4165-8344-72a18bc21fa8" width="500" height="300">
 
+# Where's Mitchell?
+- like where's wally
+<img src="https://github.com/user-attachments/assets/814f682f-56f8-4bb4-a565-7cfc89dba8c5" width="300" height="300">
 
 
 # comment below
