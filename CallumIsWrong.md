@@ -365,6 +365,20 @@ so how after all of this can you see the ratio as ok?
 - a civilian life is worth more than a combatant's in a war.
 - similarily, even if their numbers are good compared with historical urban warefare, how does that in anway a justification of their murder ratio? 
 
+## Here's an idea:
+which route number do you end up at?:
+```mermaid
+flowchart TD;
+    	q1[Is mass murder always justified if it's for any good cause?]
+    	q1-->r1[Yes];
+    	q1-->r2[No];
+    	r1-->q2[i don't know what to say about this one];
+    	r2-->q3[Is accidental collateral murder of civilians always justified if it's for any good cause?];
+    	q3-->r3[Yes];
+	q3-->r4[No];
+	r3-->q4[really???, you _really think this_?];
+	r3-->q5[we agree so far....];
+```
 
 
 </details>
