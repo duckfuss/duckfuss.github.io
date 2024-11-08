@@ -362,6 +362,7 @@ so how after all of this can you see the ratio as ok?
 ### wait but they have no other option
 - if the USA's generals say they do they do.
 - a civilian life is worth more than a combatant's in a war.
+- similarily, even if their numbers are good compared with historical urban warefare, how does that in anway a justification of their murder ratio? 
 
 
 
