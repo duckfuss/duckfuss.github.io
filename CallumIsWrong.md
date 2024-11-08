@@ -340,6 +340,7 @@ lets first establish where we *do* agree
 1. Hamas is evil, defo a bad baddie
 2. Israel should continue to try eradicate Hamas
 3. Killing non-combatants is not automatically justified if you're fighting evil
+
 I hope from this you see how it follows that killing non-combatants is not automatically justified just bc Israel is fighting Hamas.
 #### lets cut to the chase:
 > **we disagree on the ratio of civilian:terrorist deaths allowed**
@@ -353,17 +354,17 @@ You know the facts:
 	- not just any non-combatant, ***CHILDREN***
 	- that ain't right
 so how after all of this can you see the ratio as ok?
-### wait but blame those on Hamas
+### "wait but blame those on Hamas"
 - yeah ig they were killed bc Hamas use human shields, bc if Hamas resigned they would not have died. 
-- But they wound't have died if the comet that wiped the dinosaurs didn't hit, like this is just causality.
+- But they wouldn't have died if the comet that wiped the dinosaurs didn't hit, like this is just causality.
 - Making this point is meaningless bc Hamas are gonna Hamas, but Israel don't have to!
-- Like whoever you "blame" means no difference if they end up dead anyway, it's like in a sibling fight claiming "TheY StArTed iT".
+- Like whoever you "blame" makes no difference if they end up dead anyway, it's like in a sibling fight claiming "TheY StArTed iT".
 - I don't gaf if they started it, all that matters is israel doesn't have to shoot as many kids, so whether you place the deaths as Hamas's or Israel's fault does not make a parsnip of difference as to whether israel should stop shooting kids.
 - We both believe Hamas should stop killing kids, so why can't we both believe Israel should minimise their side of the deaths???
-### wait but they have no other option
+### "wait but they have no other option"
 - if the USA's generals say they do they do.
 - a civilian life is worth more than a combatant's in a war.
-- similarily, even if their numbers are good compared with historical urban warefare, how does that in anway a justification of their murder ratio? 
+- similarily, even if their numbers are good compared with historical urban warefare, how does that in any way a justification of their murder ratio? 
 
 </details>
 
