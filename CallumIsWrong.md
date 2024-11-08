@@ -330,6 +330,7 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 - I smell some **common ground**
 	- I don't believe that it's never right to kill for a good cause
 	- You don't believe that its always right to kill for a good cause
+
 Thus there are three things determining if it's justified to kill civilians:
 1. the badness of the baddy
 2. the damage done to said baddie
