@@ -317,7 +317,7 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 
 
 
-<details>
+<details open>
 <summary>Opinion 6: <h2>6. Civilian casualites in gaza are justifiable</h2></summary>
 
 ### Is any mass murder justified if it's for a good cause?
