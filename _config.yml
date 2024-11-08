@@ -1,6 +1,6 @@
 name: 🦆
 markdown: GFM
-theme: minima
+# theme: minima
 header_pages:
   - MitchRumours.md
 disqus:
