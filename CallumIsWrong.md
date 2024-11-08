@@ -318,13 +318,52 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 
 
 <details>
-<summary>Opinion 6: <h2>6. Asian work ethic ≠ reason for high IQ scores</h2></summary>
+<summary>Opinion 6: <h2>6. Civilian casualites in gaza are justifiable</h2></summary>
 
->I would argue in this case it's because of their incredibly strong work ethic/culture around work, especially at school- and I don't see that as an unfair stereotype, as Daniel, who has lived in east asia, would testify it is true. It is not hard to see how this would increse IQ
->
-> (in response) I also question the extent to which IQ can be increased this way - Callum
+### Is any mass murder justified if it's for a good cause?
+- if you say yes to this then idk what the fuck to say
+- I kinda am assuming, that you don't believe this but at this point i really don't which department of hell your moral compass points
+	- like I assume you understand that you wouldn't, in an effort to weed your garden, murder your neighbour
+### So it's not so cut and dry after all?
+- yeah, seems so
+- So ig the question is really how much murder is too much?
+- I smell some **common ground**
+	- I don't believe that it's never right to kill for a good cause
+	- You don't believe that its always right to kill for a good cause
+Thus there are three things determining if it's justified to kill civilians:
+1. the badness of the baddy
+2. the damage done to said baddie
+3. the number of civilians killed
+### So where do we disagree?
+lets first establish where we *do* agree
+1. Hamas is evil, defo a bad baddie
+2. Israel should continue to try eradicate Hamas
+3. Killing non-combatants is not automatically justified if you're fighting evil
+I hope from this you see how it follows that killing non-combatants is not automatically justified just bc Israel is fighting Hamas.
+#### lets cut to the chase:
+> **we disagree on the ratio of civilian:terrorist deaths allowed**
 
-I just wanted to quickly address this, this is wrong.
+### let me make my case
+You know the facts:
+- 70% of deaths are women and children
+	- fuck me isn't that big eh
+	- so how on earth is this ok???
+- 44% of deaths are **children**
+	- not just any non-combatant, ***CHILDREN***
+	- that ain't right
+so how after all of this can you see the ratio as ok?
+### wait but blame those on Hamas
+- yeah ig they were killed bc Hamas use human shields, bc if Hamas resigned they would not have died. 
+- But they wound't have died if the comet that wiped the dinosaurs didn't hit, like this is just causality.
+- Making this point is meaningless bc Hamas are gonna Hamas, but Israel don't have to!
+- Like whoever you "blame" means no difference if they end up dead anyway, it's like in a sibling fight claiming "TheY StArTed iT".
+- I don't gaf if they started it, all that matters is israel doesn't have to shoot as many kids, so whether you place the deaths as Hamas's or Israel's fault does not make a parsnip of difference as to whether israel should stop shooting kids.
+- We both believe Hamas should stop killing kids, so why can't we both believe Israel should minimise their side of the deaths???
+### wait but they have no other option
+- if the USA's generals say they do they do.
+- a civilian life is worth more than a combatant's in a war.
+
+
 
 </details>
 
