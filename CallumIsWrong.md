@@ -345,10 +345,10 @@ I hope from this you see how it follows that killing non-combatants is not autom
 
 ### let me make my case
 You know the facts:
-- 70% of deaths are women and children
+- 70% of deaths are women and children [^13]
 	- fuck me isn't that big eh
 	- so how on earth is this ok???
-- 44% of deaths are **children**
+- 44% of deaths are **children** [^13]
 	- not just any non-combatant, ***CHILDREN***
 	- that ain't right
 so how after all of this can you see the ratio as ok?
@@ -398,4 +398,4 @@ what an opinion
 [^10]: https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5
 [^11]: https://www.washingtonpost.com/politics/2021/10/12/critics-claim-blm-was-more-violent-than-1960s-civil-rights-protests-thats-just-not-true/
 [^12]: https://apnews.com/article/trump-rape-carroll-trial-fe68259a4b98bb3947d42af9ec83d7db
-
+[^13]: https://www.bbc.com/news/articles/cn5wel11pgdo
