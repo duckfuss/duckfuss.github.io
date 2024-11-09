@@ -320,13 +320,13 @@ this shouldn't be hard to understand 🥕, just bc Obama talked about racism, an
 <details open>
 <summary>Opinion 6: <h2>6. Civilian casualites in gaza are justifiable</h2></summary>
 
-### Is any mass murder justified if it's for a good cause?
+### Is any mass civillian deaths justified if it's for a good cause?
 - if you say yes to this then idk what the fuck to say
 - I kinda am assuming, that you don't believe this but at this point i really don't which department of hell your moral compass points
 	- like I assume you understand that you wouldn't, in an effort to weed your garden, murder your neighbour
 ### So it's not so cut and dry after all?
 - yeah, seems so
-- So ig the question is really how much murder is too much?
+- So ig the question is really how much civilian death is too much?
 - I smell some **common ground**
 	- I don't believe that it's never right to kill for a good cause
 	- You don't believe that its always right to kill for a good cause
