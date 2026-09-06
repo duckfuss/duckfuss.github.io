@@ -7,8 +7,6 @@ Sources:
   - https://newscord.org/editorials/jason-arday-pile-on
 dg-publish: true
 share: true
-cssclasses:
-  - toc-only
 ---
 # the problem with opinionated news
 It took 22 days for the press to drive a Jason Arday to suicide:
