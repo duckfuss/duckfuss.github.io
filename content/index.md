@@ -1,4 +1,4 @@
 ---
 share: true
 ---
-[[Should news come with opinion?|Should news come with opinion?]]
+[[opinionated news|opinionated news]]
