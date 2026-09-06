@@ -71,8 +71,8 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
-      priority: 30
+      position: left
+      priority: 40
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -98,18 +98,24 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
+
+  - source: "@quartz-themes/core"
+    enabled: true
+    order: 10
+    options:
+      theme: prose
+      mode: both
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-    options:
-      fontOrigin: googleFonts
-      body: IBM Plex Mono
-      header: IBM Plex Mono
-      code: IBM Plex Mono
-  - source: "@quartz-themes/core"
-    enabled: false
-    options:
-      theme: tokyo-night
-      mode: dark
+    #order: 60
+    #options:
+    #  useThemeFonts: true
+    #  fontOrigin: googleFonts
+    #  body: IBM Plex Mono
+    #  header: IBM Plex Mono
+    #  code: IBM Plex Mono
+
+    
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -136,15 +142,15 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
     layout:
-      position: right
-      priority: 10
+      position: afterBody
+      priority: 60
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -156,7 +162,7 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: right
+      position: left
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
@@ -191,7 +197,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -213,8 +219,16 @@ plugins:
     layout:
       position: footer
       priority: 50
-  - source: "@quartz-community/recent-notes"
-    enabled: false
+  - source: github:quartz-community/recent-notes
+    enabled: true
+    options:
+      limit: 3
+      showTags: false
+      hideTagPages: false
+      hideFolderPages: false
+    layout:
+      priority: 60
+      position: right
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -262,6 +276,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+
 layout:
   groups:
     toolbar:
