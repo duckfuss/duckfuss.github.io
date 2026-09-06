@@ -20,7 +20,7 @@ A story about plagiarism at top universities does not justify the 560% increase 
 
 ## 1 - the motivation
 #### ideology?
-I implore you to look past the vaguely conspiratorial associations with the term "the ideology" and look at it for what it is. It is no conspiracy to suggest that a newspaper that endorses political candidates, dares hold an opinion, and sits firmly on one end of a political spectrum might have a unifying ideology. Is it out of character that a newspaper hostile to DEI initiatives such as the Telegraph might publish over 3 stories a day (post-resignation) targeted at a single person?
+It is no conspiracy to suggest that a newspaper that endorses political candidates, dares hold an opinion, and sits firmly on one end of a political spectrum might have a unifying ideology. Is it out of character that a newspaper hostile to DEI initiatives such as the Telegraph might publish over 3 stories a day (post-resignation) targeted at a single person?
 #### emotive profit?
 
 
