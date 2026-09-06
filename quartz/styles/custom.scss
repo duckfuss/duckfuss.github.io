@@ -1,14 +1,170 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-.simple {
-  .sidebar.left,
-  .sidebar.right {
+#quartz-body:has(.simple) {
+  /* Keep sidebars in layout structure, but hide their visible contents */
+  .left.sidebar,
+  .right.sidebar {
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  /* Hide the Graph View within the center column */
+  .center {
+    .graph,
+    h3:has(+ .graph) {
+      display: none !important;
+    }
+  }
+}
+
+/* --------------------------------------------------
+   TOC-ONLY LAYOUT OVERRIDE
+   -------------------------------------------------- */
+#quartz-body:has(.toc-only) {
+  
+  /* Hide everything in the left sidebar EXCEPT the Table of Contents */
+  .left.sidebar > *:not(.toc) {
     display: none !important;
   }
-  
-  .center {
-    max-width: var(--content-width);
-    margin: 0 auto;
+
+  /* Ensure the sidebar and TOC backgrounds blend perfectly with the page */
+  .left.sidebar,
+  .toc {
+    background-color: var(--light) !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
   }
+
+  /* Optional: Hide the Graph View and Backlinks in the center column for a cleaner look */
+  .center {
+    .graph,
+    h3:has(+ .graph),
+    .backlinks,
+    .backlinks-container {
+      display: none !important;
+    }
+  }
+}
+
+
+/* --------------------------------------------------
+   1. PIN SIDEBAR LEFT & NUKES RIGHT SIDEBAR
+   -------------------------------------------------- */
+
+/* Outer layout: strictly 2 columns, ignoring right sidebar completely */
+#quartz-body {
+  display: grid !important;
+  grid-template-columns: 320px 1fr !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+/* Hide right sidebar completely and remove its layout footprint */
+.right.sidebar,
+#quartz-body > .right {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Sidebar pinned flush left and forced to full viewport height */
+.left.sidebar {
+  width: 320px !important;
+  min-width: 320px !important;
+  padding-top: 0.5rem !important;
+}
+
+/* Center main column container */
+.center,
+.page {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  box-sizing: border-box !important;
+}
+
+/* Constrain article text width */
+.center > *,
+article,
+article > *,
+.popover-hint {
+  width: 100% !important;
+  max-width: 620px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box !important;
+}
+
+/* --------------------------------------------------
+   MATCH RECENT NOTES FONT SIZE TO TOC
+   -------------------------------------------------- */
+
+/* 1. Match Section Headers */
+.toc h3,
+.toc button,
+.recent-notes h3 {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin: 0 0 0.5rem 0 !important;
+}
+
+/* 2. Match List Items / Links */
+.toc ul li a,
+.recent-notes ul li a {
+  font-size: 0.95rem !important;
+  line-height: 1.4 !important;
+}
+
+/* 3. Scale the date underneath Recent Notes proportionately */
+.recent-notes ul li .meta {
+  font-size: 0.8rem !important;
+  opacity: 0.75 !important;
+  margin-top: 0.1rem !important;
+}
+
+/* --------------------------------------------------
+   MAKE BACKLINKS LOOK LIKE LINKS
+   -------------------------------------------------- */
+.backlinks ul li a,
+.backlinks-container ul li a {
+  color: var(--secondary) !important; /* Uses your theme's default link color */
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
+
+  &:hover {
+    color: var(--tertiary) !important; /* Changes color slightly on hover */
+  }
+}
+
+/* --------------------------------------------------
+   GRAPH VIEW VISIBILITY FIXES
+   -------------------------------------------------- */
+
+/* Force node labels to be visible, large, and high-contrast */
+.graph svg text {
+  fill: var(--darkgray) !important;
+  opacity: 1 !important;
+  font-size: 14px !important; 
+  visibility: visible !important;
+  pointer-events: none !important;
+}
+
+/* Force connecting lines to be thicker and visible */
+.graph svg line {
+  stroke: var(--gray) !important;
+  stroke-width: 2px !important;
+  opacity: 0.6 !important;
+}
+
+/* Optional: Make the nodes a bit larger and brighter */
+.graph svg circle {
+  fill: var(--tertiary) !important;
+  r: 4 !important; /* Node radius */
 }

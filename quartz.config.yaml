@@ -143,11 +143,43 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: false
+    options:
+      title: "Navigation"  
     layout:
       position: left
       priority: 50
-  - source: "@quartz-community/graph"
+  - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.5           # INCREASED: Zooms the camera in slightly more by default
+        repelForce: 2.5      # INCREASED: Pushes nodes further apart
+        centerForce: 0.3
+        linkDistance: 70     # INCREASED: Makes the lines between nodes longer and visible
+        fontSize: 1.2        # INCREASED: Makes the node names large enough to read
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: true   # CHANGED: Highlights links and dims non-connected nodes on hover
+        enableRadial: false
+
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: true
+        enableRadial: true
     layout:
       position: afterBody
       priority: 60
@@ -162,7 +194,7 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: left
+      position: afterBody
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
@@ -227,8 +259,8 @@ plugins:
       hideTagPages: false
       hideFolderPages: false
     layout:
-      priority: 60
-      position: right
+      priority: 100
+      position: left
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -247,8 +279,6 @@ plugins:
       includeAll: false
       includedProperties:
         - description
-        - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
