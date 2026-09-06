@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: IBM Plex Mono
       body: IBM Plex Mono
       code: IBM Plex Mono
     colors:
@@ -100,6 +100,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      body: IBM Plex Mono
+      header: IBM Plex Mono
+      code: IBM Plex Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:
