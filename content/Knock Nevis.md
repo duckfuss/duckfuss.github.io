@@ -2,9 +2,9 @@
 share: true
 ---
 - #topic/vehicle 
-- ![](https://upload.wikimedia.org/wikipedia/en/d/da/Knock_Nevis.jpg)
+- ![](Knock_Nevis.jpg)
 - Largest ever [[ship|ship]]
 - initially known as the "Seawise Giant"
-- 3km turing circle  
+- 3km turning circle  
 - # Size comparison
-	-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bateaux_comparaison2_with_Allure.svg/1024px-Bateaux_comparaison2_with_Allure.svg.png)
+- ![[Screenshot 2026-09-07 at 18.37.08.png|345]]
