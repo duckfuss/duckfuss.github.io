@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/history
 ---
-#topic/history 
 # Summary
 - following the decline of the [[western roman empire|western roman empire]]
 - lasted from the 6th to the 10th century
