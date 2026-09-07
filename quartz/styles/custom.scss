@@ -127,6 +127,11 @@
   max-height: none !important;
 }
 
+/* Ensure Tags take up available space when Recent Notes is collapsed */
+.left.sidebar:has(> .recent-notes.is-collapsed) > .tag-explorer[open] {
+  flex: 1 1 auto !important;
+}
+
 /* Recent notes: always pinned to the bottom of the sidebar */
 .left.sidebar > .recent-notes {
   margin-top: auto !important;
