@@ -1,7 +1,9 @@
 ---
 share: true
+tags:
+  - topic/history
+  - topic/biology
 ---
-#topic/history 
 # Summary 
 - killed 1/3 of all Europe
 # Spread
