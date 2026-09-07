@@ -1,6 +1,6 @@
 @use "./variables.scss" as *;
 
-#quartz-body:has(.simple) {
+#quartz-body:has(> .center > article.simple) {
   /* Keep sidebars in layout structure, but hide their visible contents */
   .left.sidebar,
   .right.sidebar {
@@ -20,7 +20,7 @@
 /* --------------------------------------------------
    TOC-ONLY LAYOUT OVERRIDE
    -------------------------------------------------- */
-#quartz-body:has(.toc-only) {
+#quartz-body:has(> .center > article.toc-only) {
   
   /* Hide everything in the left sidebar EXCEPT the Table of Contents */
   .left.sidebar > *:not(.toc) {
@@ -49,10 +49,9 @@
 
 
 /* --------------------------------------------------
-   1. PIN SIDEBAR LEFT & NUKES RIGHT SIDEBAR
+   PIN SIDEBAR LEFT WHILE KEEPING THE CONTENT CENTERED
    -------------------------------------------------- */
 
-/* Outer layout: strictly 2 columns, ignoring right sidebar completely */
 #quartz-body {
   display: grid !important;
   grid-template-columns: 320px 1fr !important;
@@ -60,7 +59,14 @@
   margin: 0 !important;
 }
 
-/* Hide right sidebar completely and remove its layout footprint */
+/* Sidebar pinned flush left and forced to full viewport height */
+.left.sidebar {
+  width: 320px !important;
+  min-width: 320px !important;
+  padding-top: 0.5rem !important;
+}
+
+/* Keep the right sidebar unavailable while left-sidebar components remain visible. */
 .right.sidebar,
 #quartz-body > .right {
   display: none !important;
@@ -72,11 +78,89 @@
   pointer-events: none !important;
 }
 
-/* Sidebar pinned flush left and forced to full viewport height */
-.left.sidebar {
-  width: 320px !important;
-  min-width: 320px !important;
-  padding-top: 0.5rem !important;
+#random-page-btn {
+  width: 100%;
+  height: 32px;
+  box-sizing: border-box;
+  padding: 0 0.8rem;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  background: var(--lightgray);
+  color: var(--dark);
+  font: inherit;
+  font-weight: 600;
+  letter-spacing: 0;
+  cursor: pointer;
+  transition: background-color 150ms ease, border-color 150ms ease, transform 150ms ease;
+}
+
+#random-page-btn:hover {
+  border-color: var(--secondary);
+  background: var(--light);
+  transform: translateY(-1px);
+}
+
+#random-page-btn:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 3px;
+}
+
+.toc-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.toc-content > .overflow-end {
+  display: none !important;
+}
+
+.toc > .toc-header {
+  margin-bottom: 0 !important;
+}
+
+.toc {
+  padding-top: 0.75rem !important;
+}
+
+.recent-notes > h3 {
+  cursor: pointer;
+  user-select: none;
+}
+
+.recent-notes > h3::after {
+  content: "";
+  display: inline-block;
+  width: 0.45rem;
+  height: 0.45rem;
+  margin: 0 0 0.15rem 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 150ms ease;
+}
+
+.recent-notes.is-collapsed > h3::after {
+  transform: rotate(-45deg);
+}
+
+.recent-notes.is-collapsed > .recent-ul,
+.recent-notes.is-collapsed > p {
+  display: none;
+}
+
+.center > hr {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 2rem 0 !important;
+  border: 0;
+  border-top: 1px solid var(--lightgray);
+}
+
+#quartz-body > footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 /* Center main column container */

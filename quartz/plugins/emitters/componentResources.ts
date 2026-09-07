@@ -6,6 +6,8 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore
+import recentNotesToggle from "../../components/scripts/recentNotesToggle.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -60,6 +62,8 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
     for (const b of normalizeResource(beforeDOMLoaded)) componentResources.beforeDOMLoaded.add(b)
     for (const a of normalizeResource(afterDOMLoaded)) componentResources.afterDOMLoaded.add(a)
   }
+
+  componentResources.afterDOMLoaded.add(recentNotesToggle)
 
   return {
     css: [...componentResources.css],

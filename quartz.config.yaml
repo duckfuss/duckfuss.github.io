@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: DuckNotes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -41,10 +41,13 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: github:duckfuss/quartz-plugin-random-note
+  - source: github:duckfuss/quartz_randomPage#main
     enabled: true
     options:
       targetSlug: "random"
+    layout:
+      position: left
+      priority: 36
 
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -240,7 +243,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        GitHub: https://github.com/duckfuss
         Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
