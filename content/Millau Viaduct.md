@@ -1,8 +1,10 @@
 ---
 share: true
+tags:
+  - topic/architecture
 ---
 type:  
-topic: #topic/architecture
+topic:
 source: 
 # summary
 - tallest freestanding structure in France, followed by the [[Eiffel tower|Eiffel tower]] in [[Paris|Paris]]

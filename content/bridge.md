@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/architecture
 ---
-#topic/architecture 
 - ## Types of bridge
 	- Beam
 		- horizontal beams supported at each end

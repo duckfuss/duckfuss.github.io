@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/history
 ---
-#topic/history 
 # Summary
 - most of Europe was affected
 - most of [[Middle ages|medieval]] Europe were [[subsistence farming|reliant upon the food that they grew]]

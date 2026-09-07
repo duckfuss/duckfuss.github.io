@@ -1,8 +1,10 @@
 ---
 share: true
+tags:
+  - topic/vehicle
 ---
 type::  
-topic:: #topic/vehicle
+topic::
 source:: 
 
 # [[airship|airship]]:  

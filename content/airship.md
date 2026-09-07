@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/vehicle
 ---
-#topic/vehicle
 # Summary:
 - lighter-than-air aircraft
 - uses lifting gas (except [[airship#^feaad6|airship]])

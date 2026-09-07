@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/physics/space
 ---
-#topic/physics/space  
 ## Radiation
 [[Sources#MentalFlossMars|Sources > MentalFlossMars]]
 - MARIE (Mars radiation environment experiment), was a probe sent to surface of mars by NASA in 2001 to study planet's radiation.

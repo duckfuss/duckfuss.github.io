@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/history
 ---
-#topic/history 
 # Summary
 - plague, war famine etc.
 - population decrease

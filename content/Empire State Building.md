@@ -1,8 +1,10 @@
 ---
 share: true
+tags:
+  - topic/architecture
 ---
 type::  
-topic:: #topic/architecture
+topic::
 source:: 
 
 - view from the top:

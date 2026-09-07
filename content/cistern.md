@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - topic/architecture
 ---
-#topic/architecture 
 - Stores rainwater
 - # Images:
 	- ![[El_Jadida_cistern.jpg|291]]
