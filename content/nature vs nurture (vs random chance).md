@@ -2,12 +2,10 @@
 share: true
 tags:
   - topic/biology
+  - topic/phycology
+aliases:
+  - nature vs nurture
 ---
-alias:: nature vs nurture
-type::  
-source:: 
-topic::
-
 - # 3 main impacts on whether a person's brain is creative/good at reading etc.
 	- ## Nature
 		- genes inherited from parents dictate characteristics

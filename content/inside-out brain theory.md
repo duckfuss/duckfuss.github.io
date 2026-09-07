@@ -1,0 +1,29 @@
+---
+tags:
+  - topic/biology
+  - topic/phycology
+share: true
+---
+- # Explanation:  
+	- ## Conventional view (outside-in)
+		- brain is a "blank slate" on which experiences are "painted"
+		- Stimulus reaches brain, which responds by causing neurones to fire
+			- requires an "interpreter" to observe and establish relationship between neurones firing and the stimulus
+				- can't find meaning in seemingly random neurons firing
+			- some hypothetical "central processor
+				- sensory input
+				- output based on ↑
+		- #### Model:
+			- perception → decision → action
+			- A causes B which causes C
+		- ### problems raised by this
+			- where does perception occur?
+			- what initiates finger movement before cells in the motor cortex fire?
+			- **how can photons falling on the retina be transformed into a recollection of a summer outing?**
+	- ## Inside-Out framework
+		- the primary preoccupation of the brain is to:
+			- generate nonsensical random patterns of neural activity
+			- when a random action fives benefit to an organism's survival, the neuronal pattern leading to that action gains a meaning, no longer random
+		- **experience is not the main source of the brain's complexity**
+			- Decision → action → perception
+			- B causes C, B informs A
