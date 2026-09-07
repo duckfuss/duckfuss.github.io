@@ -168,3 +168,46 @@ article > *,
   fill: var(--tertiary) !important;
   r: 4 !important; /* Node radius */
 }
+/* --------------------------------------------------
+   REMOVE YELLOW BACKGROUND FROM LINKS & TAGS
+   -------------------------------------------------- */
+
+a.internal,
+a.tag,
+.center a {
+  background-color: transparent !important;
+}
+
+/* Optional: Add a subtle underline hover effect so you still know they are clickable */
+.center a.internal:hover {
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
+}
+
+/* --------------------------------------------------
+   FIX EMBED / TRANSCLUSION SPACING & COLOR
+   -------------------------------------------------- */
+
+.transclude,
+.internal-embed,
+blockquote {
+  /* Force a distinct blue border */
+  border-left: 4px solid #3b82f6 !important; 
+  
+  /* Space OUTSIDE: pushes the embed away from the text above and below it */
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+  
+  /* Space INSIDE: pushes the text away from the blue border */
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  padding-left: 1.5rem !important;
+  
+  background-color: transparent !important;
+}
+
+/* Ensure nested elements inside the embed don't break the spacing */
+.transclude > *,
+.internal-embed > * {
+  margin-top: 0 !important;
+}

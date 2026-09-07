@@ -40,6 +40,7 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -115,7 +116,6 @@ plugins:
     #  header: IBM Plex Mono
     #  code: IBM Plex Mono
 
-    
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -223,7 +223,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
