@@ -1,10 +1,12 @@
 ---
 share: true
+tags:
+  - topic/biology
 ---
 alias:: nature vs nurture
 type::  
 source:: 
-topic:: #topic/biology
+topic::
 
 - # 3 main impacts on whether a person's brain is creative/good at reading etc.
 	- ## Nature
