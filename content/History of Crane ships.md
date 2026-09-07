@@ -1,5 +1,8 @@
 ---
 share: true
+tags:
+  - topic/history
+  - topic/vehicle
 ---
 # History: 
 ## [[Middle ages|medieval]] Europe:
