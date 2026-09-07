@@ -32,7 +32,7 @@ share: true
 	- mimics bamboo?
 	- ### Damper:
 		- ![gif.gif](gif_1663962087125_0.gif){:height 184, :width 258}
-		-![484](assets/localImages/484.jpg)
-		- ![318](assets/localImages/318.png)
+		-![484](484.jpg)
+		- ![318](318.png)
 		- [[tuned mass damper|tuned mass damper]]
 	-
