@@ -73,6 +73,72 @@
   width: 320px !important;
   min-width: 320px !important;
   padding-top: 0.5rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100vh !important;
+  overflow: hidden !important;
+}
+
+/* Table of Contents: takes only needed height, scrolls if long */
+.left.sidebar > .toc {
+  display: flex !important;
+  flex-direction: column !important;
+  flex: 0 1 auto !important;
+  min-height: 0 !important;
+}
+
+.left.sidebar > .toc:not(:has(button.toc-header.collapsed)) {
+  min-height: 4rem !important;
+}
+
+.left.sidebar > .toc:has(button.toc-header.collapsed),
+.left.sidebar > .toc:has(.toc-content.collapsed) {
+  flex: 0 0 auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.left.sidebar > .toc:not(:has(button.toc-header.collapsed)) > .toc-content {
+  overflow-y: auto !important;
+  max-height: 32vh !important;
+  min-height: 0 !important;
+}
+
+/* Tags: sits directly below TOC (or toolbar if no TOC), sizes flexibly */
+.left.sidebar > .tag-explorer {
+  margin-top: 0 !important;
+  flex: 0 1 auto !important;
+  min-height: 0 !important;
+}
+
+.left.sidebar > .tag-explorer:not([open]) {
+  flex: 0 0 auto !important;
+}
+
+.left.sidebar > .tag-explorer[open] > nav > .tag-explorer__list {
+  max-height: 30vh !important;
+  overflow-y: auto !important;
+}
+
+/* When TOC is collapsed or absent, Tags can expand more */
+.left.sidebar:not(:has(> .toc:not(:has(button.toc-header.collapsed)))) > .tag-explorer[open] > nav > .tag-explorer__list {
+  max-height: 52vh !important;
+}
+
+/* Recent notes: always pinned to the bottom of the sidebar */
+.left.sidebar > .recent-notes {
+  margin-top: auto !important;
+  flex: 0 1 auto !important;
+  min-height: 0 !important;
+}
+
+.left.sidebar > .recent-notes.is-collapsed {
+  flex: 0 0 auto !important;
+}
+
+.left.sidebar > .recent-notes:not(.is-collapsed) > .recent-ul {
+  max-height: 26vh !important;
+  overflow-y: auto !important;
 }
 
 /* Keep the right sidebar unavailable while left-sidebar components remain visible. */
@@ -178,6 +244,11 @@
   padding-top: 0 !important;
 }
 
+.toc-content.collapsed,
+.toc:has(button.toc-header.collapsed) .toc-content {
+  display: none !important;
+}
+
 .toc-content > .overflow-end {
   display: none !important;
 }
@@ -242,13 +313,6 @@
   display: none;
 }
 
-.left.sidebar:has(> .toc) > .tag-explorer:not([open]) {
-  margin-top: auto;
-}
-
-.left.sidebar:not(:has(> .toc)) > .tag-explorer {
-  margin-top: 0;
-}
 
 .center > hr {
   width: 100% !important;

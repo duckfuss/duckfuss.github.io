@@ -16,8 +16,8 @@
     "quartz_tagFolders": {
       "source": "github:duckfuss/quartz_tagFolders",
       "resolved": "https://github.com/duckfuss/quartz_tagFolders.git",
-      "commit": "f1903dbc8b3d52068569a25c50984f454c57d1ae",
-      "installedAt": "2026-09-07T15:41:14.847Z"
+      "commit": "0ee1e3e1b5b4ebac3f3979d52417cee814e45e62",
+      "installedAt": "2026-09-07T15:50:47.284Z"
     },
     "recent-notes": {
       "source": "github:quartz-community/recent-notes",
