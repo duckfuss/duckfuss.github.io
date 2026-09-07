@@ -107,8 +107,12 @@
 /* Tags: sits directly below TOC (or toolbar if no TOC), sizes flexibly */
 .left.sidebar > .tag-explorer {
   margin-top: 0 !important;
-  flex: 0 1 auto !important;
+  flex: 1 1 auto !important;
   min-height: 0 !important;
+  margin-bottom: 1rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
 }
 
 .left.sidebar > .tag-explorer:not([open]) {
@@ -116,13 +120,14 @@
 }
 
 .left.sidebar > .tag-explorer[open] > nav > .tag-explorer__list {
-  max-height: 30vh !important;
+  flex: 1 1 auto !important;
   overflow-y: auto !important;
+  min-height: 0 !important;
 }
 
 /* When TOC is collapsed or absent, Tags can expand more */
 .left.sidebar:not(:has(> .toc:not(:has(button.toc-header.collapsed)))) > .tag-explorer[open] > nav > .tag-explorer__list {
-  max-height: 52vh !important;
+  max-height: none !important;
 }
 
 /* Recent notes: always pinned to the bottom of the sidebar */
