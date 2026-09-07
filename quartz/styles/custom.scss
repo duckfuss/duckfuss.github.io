@@ -521,7 +521,7 @@ article:not([class*="canvas"]) > *,
 
 /* Force node labels to be visible */
 .graph svg text {
-  fill: var(--darkgray, #4e4e4e) !important;
+  fill: #4e4e4e !important;
   fill-opacity: 1 !important;
   opacity: 1 !important;
   font-size: 14px !important;
@@ -533,7 +533,7 @@ article:not([class*="canvas"]) > *,
 /* Force connecting edges to be visible (covers both line and path) */
 .graph svg line,
 .graph svg path {
-  stroke: var(--gray, #b8b8b8) !important;
+  stroke: #b8b8b8 !important;
   stroke-width: 2px !important;
   stroke-opacity: 0.6 !important;
   opacity: 0.6 !important;
