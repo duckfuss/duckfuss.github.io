@@ -3,7 +3,7 @@ tags:
   - topic/physics
 share: true
 ---
-- ![184](assets/localImages/184.jpg)
+- ![184](184.jpg)
 - a.k.a harmonic absorber
 - ## how does it work?
 	- reduces mechanical vibrations

@@ -20,4 +20,4 @@ share: true
 			- took 43,522 communards prisoner
 				- including 1,054 women
 	- debates on the policies of the commune had significant influence on the ideas of Karl Marx
-- ![](assets/localImages/Barricade18March1871.jpg)
+- ![](Barricade18March1871.jpg)

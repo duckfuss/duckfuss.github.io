@@ -17,7 +17,7 @@ tags:
 
 ![[History of Airships|History of Airships]]
 # Hybrid airships  
-- ![381](assets/localImages/381.jpg)
+- ![381](381.jpg)
 	- generate lift with some aerodynamic lift as well as lighter than air lift
 # Vacuum airship   ^feaad6
 - a _hypothetical_ airship that contains a vacuum instead of a lighter than air gas
