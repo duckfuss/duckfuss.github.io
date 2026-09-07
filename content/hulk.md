@@ -1,5 +1,7 @@
 ---
 share: true
+tags:
+  - topic/vehicle
 ---
 type::  
 source:: 
