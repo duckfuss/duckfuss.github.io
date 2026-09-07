@@ -1,9 +1,11 @@
 ---
 share: true
+tags:
+  - topic/geography
 ---
 type::  
 source:: 
-topic:: #topic/geography
+topic::
 
 - Summary  
 	- Water harvesting technique common in the Thar desert region of India
