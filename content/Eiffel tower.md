@@ -1,8 +1,10 @@
 ---
 share: true
+tags:
+  - topic/architecture
 ---
 type::  
-topic:: #topic/architecture
+topic::
 source:: 
 
 - ### Tribute to the queen:
