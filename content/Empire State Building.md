@@ -4,7 +4,7 @@ tags:
   - topic/architecture
 ---
 - view from the top:
-	![empire state building view](assets/localImages/empire_state_building_view.jpg)
+	![empire state building view](empire_state_building_view.jpg)
 - quick facts:  
 	- 102 stories tall
 	- Art Deco
