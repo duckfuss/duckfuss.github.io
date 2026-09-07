@@ -1,7 +1,9 @@
 ---
 share: true
+tags:
+  - topic/vehicle
 ---
-- #topic/vehicle 
+- 
 - ![](Knock_Nevis.jpg)
 - Largest ever [[ship|ship]]
 - initially known as the "Seawise Giant"
