@@ -4,12 +4,17 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = ctx.argv.serve ? "/" : url.pathname
+  const imagePath = `${baseDir.endsWith("/") ? baseDir : `${baseDir}/`}static/404Duck.jpeg`
 
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+    <article class="popover-hint not-found-page">
+      <div class="not-found-content">
+        <img src={imagePath} alt="Lost duck" />
+        <p class="not-found-code">404</p>
+        <h1>Work in progress</h1>
+        <p>This page is still finding its way.</p>
+        <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      </div>
       <script
         dangerouslySetInnerHTML={{
           __html: `

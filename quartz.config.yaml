@@ -41,14 +41,19 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: github:duckfuss/quartz_randomPage#main
+  - source: quartz_randomNote
     enabled: true
     options:
-      targetSlug: "random"
+      excludeTags:
+        - private
+        - draft
+      excludePathPrefixes:
+        - tags
+        - folders
+        - archive
     layout:
       position: left
       priority: 36
-
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -77,6 +82,8 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
+    options:
+      minEntries: 0
     order: 50
     layout:
       position: left
@@ -303,6 +310,16 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: github:duckfuss/quartz_tagFolders
+    enabled: true
+    options:
+      title: Tags
+      showUntagged: false
+      untaggedLabel: Untagged
+    order: 50
+    layout:
+      position: left
+      priority: 50
 layout:
   groups:
     toolbar:

@@ -143,6 +143,11 @@ export function parsePluginSource(source: PluginSource): GitPluginSpec {
     return { name: source, repo: "", npmPackage: true }
   }
 
+  // Handle unscoped npm packages installed in node_modules.
+  if (/^[a-zA-Z0-9._-]+$/.test(source)) {
+    return { name: source, repo: "", npmPackage: true }
+  }
+
   // Assume it's a plain repo name and try github
   const parts = source.split("/")
   if (parts.length === 2) {

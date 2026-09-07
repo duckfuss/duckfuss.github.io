@@ -21,22 +21,24 @@
    TOC-ONLY LAYOUT OVERRIDE
    -------------------------------------------------- */
 #quartz-body:has(> .center > article.toc-only) {
-  
-  /* Hide everything in the left sidebar EXCEPT the Table of Contents */
-  .left.sidebar > *:not(.toc) {
-    display: none !important;
-  }
+  /* Flexible 3-column grid keeps center text balanced across full screen */
+  grid-template-columns: minmax(220px, 1fr) minmax(0, 620px) minmax(0, 1fr) !important;
 
-  /* Ensure the sidebar and TOC backgrounds blend perfectly with the page */
-  .left.sidebar,
-  .toc {
-    background-color: var(--light) !important;
+  /* Blend sidebar background seamlessly into page body */
+  .left.sidebar {
+    padding-top: 5rem !important; /* Pushes TOC down */
     background: transparent !important;
+    background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
   }
 
-  /* Optional: Hide the Graph View and Backlinks in the center column for a cleaner look */
+  /* Hide everything in left sidebar EXCEPT Table of Contents */
+  .left.sidebar > *:not(.toc) {
+    display: none !important;
+  }
+
+  /* Hide Graph View and Backlinks in center column */
   .center {
     .graph,
     h3:has(+ .graph),
@@ -44,6 +46,13 @@
     .backlinks-container {
       display: none !important;
     }
+  }
+}
+
+/* Responsive fallback: prevent squishing text when browser window narrows */
+@media screen and (max-width: 1100px) {
+  #quartz-body:has(> .center > article.toc-only) {
+    grid-template-columns: 240px 1fr !important;
   }
 }
 
@@ -78,6 +87,62 @@
   pointer-events: none !important;
 }
 
+.search > .search-container {
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+
+.not-found-page {
+  display: grid !important;
+  min-height: calc(100vh - 8rem);
+  width: 100% !important;
+  max-width: none !important;
+  place-items: center;
+  text-align: center;
+}
+
+#quartz-body:has(> .center > article.not-found-page) {
+  grid-template-columns: 1fr !important;
+}
+
+#quartz-body:has(> .center > article.not-found-page) > .left.sidebar,
+#quartz-body:has(> .center > article.not-found-page) > .right.sidebar {
+  display: none !important;
+}
+
+#quartz-body:has(> .center > article.not-found-page) > .center {
+  grid-column: 1 !important;
+}
+
+.not-found-content {
+  display: flex;
+  max-width: 34rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.not-found-content img {
+  width: min(18rem, 70vw);
+  height: auto;
+}
+
+.not-found-content h1,
+.not-found-content p {
+  margin: 0;
+}
+
+.not-found-content h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+.not-found-code {
+  color: var(--secondary);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
 #random-page-btn {
   width: 100%;
   height: 32px;
@@ -91,7 +156,10 @@
   font-weight: 600;
   letter-spacing: 0;
   cursor: pointer;
-  transition: background-color 150ms ease, border-color 150ms ease, transform 150ms ease;
+  transition:
+    background-color 150ms ease,
+    border-color 150ms ease,
+    transform 150ms ease;
 }
 
 #random-page-btn:hover {
@@ -114,12 +182,38 @@
   display: none !important;
 }
 
+.toc-content a.toc-current {
+  border-bottom: 1px solid currentColor !important;
+  text-decoration: none !important;
+}
+
 .toc > .toc-header {
+  width: fit-content !important;
   margin-bottom: 0 !important;
 }
 
 .toc {
   padding-top: 0.75rem !important;
+}
+
+.toc > .toc-header .fold {
+  display: none;
+}
+
+.toc > .toc-header::after {
+  content: "";
+  display: inline-block;
+  width: 0.45rem;
+  height: 0.45rem;
+  margin: 0 0 0.15rem 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 150ms ease;
+}
+
+.toc > .toc-header.collapsed::after {
+  transform: rotate(-45deg);
 }
 
 .recent-notes > h3 {
@@ -146,6 +240,14 @@
 .recent-notes.is-collapsed > .recent-ul,
 .recent-notes.is-collapsed > p {
   display: none;
+}
+
+.left.sidebar:has(> .toc) > .tag-explorer:not([open]) {
+  margin-top: auto;
+}
+
+.left.sidebar:not(:has(> .toc)) > .tag-explorer {
+  margin-top: 0;
 }
 
 .center > hr {
@@ -193,17 +295,133 @@ article > *,
 /* 1. Match Section Headers */
 .toc h3,
 .toc button,
+.tag-explorer__summary,
 .recent-notes h3 {
   font-size: 1.1rem !important;
-  font-weight: 600 !important;
+  font-weight: 700 !important;
   margin: 0 0 0.5rem 0 !important;
 }
 
 /* 2. Match List Items / Links */
 .toc ul li a,
+.tag-explorer a,
 .recent-notes ul li a {
   font-size: 0.95rem !important;
   line-height: 1.4 !important;
+}
+
+.tag-explorer,
+.tag-explorer a,
+.recent-notes,
+.recent-notes a {
+  color: var(--dark) !important;
+}
+
+.tag-explorer__toggle,
+.tag-explorer__page a,
+.recent-notes ul li a {
+  font-size: 0.95rem !important;
+  line-height: 1.4 !important;
+  color: var(--gray) !important;
+}
+
+.left.sidebar > .tag-explorer > .tag-explorer__summary {
+  color: var(--dark) !important;
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+}
+
+.left.sidebar > .recent-notes > .recent-ul > li .section > .desc > h3 > a {
+  color: var(--gray) !important;
+}
+
+/* --------------------------------------------------
+   STYLE TAG PAGE RESULTS AS A CLEAN TABLE
+   -------------------------------------------------- */
+
+.page-listing .section-ul {
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page-listing .section-li {
+  margin: 0 !important;
+  border-bottom: 1px solid var(--gray);
+}
+
+.page-listing .section {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr) minmax(10rem, auto);
+  align-items: start;
+  gap: 1rem;
+  padding: 0.8rem 0;
+}
+
+.page-listing .meta,
+.page-listing .desc h3,
+.page-listing .tags {
+  margin: 0 !important;
+}
+
+.page-listing .meta {
+  grid-column: 1;
+  grid-row: 1;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+.page-listing .desc {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.page-listing .desc h3 {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.page-listing .tags {
+  display: flex;
+  grid-column: 3;
+  grid-row: 1;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.page-listing .tags a.tag-link {
+  display: inline;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  color: var(--secondary) !important;
+  font-size: 0.85rem;
+}
+
+@media all and not ($mobile) {
+  .page-listing .tags a.tag-link:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+}
+
+@media all and ($mobile) {
+  .page-listing .section {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+
+  .page-listing .meta,
+  .page-listing .desc,
+  .page-listing .tags {
+    grid-column: 1;
+    grid-row: auto;
+  }
 }
 
 /* 3. Scale the date underneath Recent Notes proportionately */
@@ -235,7 +453,7 @@ article > *,
 .graph svg text {
   fill: var(--darkgray) !important;
   opacity: 1 !important;
-  font-size: 14px !important; 
+  font-size: 14px !important;
   visibility: visible !important;
   pointer-events: none !important;
 }
@@ -276,17 +494,17 @@ a.tag,
 .internal-embed,
 blockquote {
   /* Force a distinct blue border */
-  border-left: 4px solid #3b82f6 !important; 
-  
+  border-left: 4px solid #3b82f6 !important;
+
   /* Space OUTSIDE: pushes the embed away from the text above and below it */
   margin-top: 2rem !important;
   margin-bottom: 2rem !important;
-  
+
   /* Space INSIDE: pushes the text away from the blue border */
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
   padding-left: 1.5rem !important;
-  
+
   background-color: transparent !important;
 }
 
