@@ -3,12 +3,8 @@ share: true
 tags:
   - topic/architecture
 ---
-type::  
-topic::
-source:: 
-
 - view from the top:
-	- ![empire state building view](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Skyline-New-York-City.jpg/2000px-Skyline-New-York-City.jpg)
+	![empire state building view](assets/localImages/empire_state_building_view.jpg)
 - quick facts:  
 	- 102 stories tall
 	- Art Deco
