@@ -1,0 +1,20 @@
+---
+share: true
+---
+#topic/architecture 
+- ## Types of bridge
+	- Beam
+		- horizontal beams supported at each end
+		- very simple
+		- can be connected across many spans
+		- diagram:
+	- Truss
+		- triangular units stressed in tension or compression
+		- oldest type of _modern_ bridge
+		- economical
+		- diagram
+	- Cantilever
+	- Arch
+	- Tied arch
+	- suspension
+	- cable-stayed
