@@ -9,7 +9,7 @@ tags:
 - lasted 50yrs
 - empire faced pressures of barbarian invasions, civil wars, political instabilities economic collapse and plague
 - there were at least 26 claimants to the title of Emperor
--  [[Roman Empire|Roman Empire]] divided in 271[![Map of Ancient Rome 271 AD.svg](assets/localImages/Map_of_Ancient_Rome_271_AD.svg)](https://en.wikipedia.org/wiki/File:Map_of_Ancient_Rome_271_AD.svg)
+-  [[Roman Empire|Roman Empire]] divided in 271[![Map of Ancient Rome 271 AD.svg](Map_of_Ancient_Rome_271_AD.svg)](https://en.wikipedia.org/wiki/File:Map_of_Ancient_Rome_271_AD.svg)
 - Aurelian reunited empire militarily (270-275)
 - Diocletian restructured and stabilised the empire in 284
 	- Stable for a further 150 yrs
