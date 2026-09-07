@@ -40,8 +40,12 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-
 plugins:
+  - source: github:duckfuss/quartz-plugin-random-note
+    enabled: true
+    options:
+      targetSlug: "random"
+
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -99,7 +103,6 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-
   - source: "@quartz-themes/core"
     enabled: true
     order: 10
@@ -108,14 +111,6 @@ plugins:
       mode: both
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-    #order: 60
-    #options:
-    #  useThemeFonts: true
-    #  fontOrigin: googleFonts
-    #  body: IBM Plex Mono
-    #  header: IBM Plex Mono
-    #  code: IBM Plex Mono
-
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -144,7 +139,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: false
     options:
-      title: "Navigation"  
+      title: Navigation
     layout:
       position: left
       priority: 50
@@ -155,17 +150,16 @@ plugins:
         drag: true
         zoom: true
         depth: 1
-        scale: 1.5           # INCREASED: Zooms the camera in slightly more by default
-        repelForce: 2.5      # INCREASED: Pushes nodes further apart
+        scale: 1.5
+        repelForce: 2.5
         centerForce: 0.3
-        linkDistance: 70     # INCREASED: Makes the lines between nodes longer and visible
-        fontSize: 1.2        # INCREASED: Makes the node names large enough to read
+        linkDistance: 70
+        fontSize: 1.2
         opacityScale: 1
         removeTags: []
         showTags: true
-        focusOnHover: true   # CHANGED: Highlights links and dims non-connected nodes on hover
+        focusOnHover: true
         enableRadial: false
-
       globalGraph:
         drag: true
         zoom: true
@@ -306,7 +300,6 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-
 layout:
   groups:
     toolbar:

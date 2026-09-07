@@ -1,11 +1,23 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "quartz-themes": {
-      "source": "github:saberzero1/quartz-themes",
-      "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "44dd81094c0dd982b67f93d91ef8c80da3f583e6",
-      "installedAt": "2026-09-06T14:55:32.882Z"
+    "graph": {
+      "source": "github:quartz-community/graph",
+      "resolved": "https://github.com/quartz-community/graph.git",
+      "commit": "411971434ab698c495dfc42870eb02d3bc539b3a",
+      "installedAt": "2026-09-07T02:08:48.023Z"
+    },
+    "quartz-plugin-random-note": {
+      "source": "github:duckfuss/quartz-plugin-random-note",
+      "resolved": "https://github.com/duckfuss/quartz-plugin-random-note.git",
+      "commit": "5f3991a82676bbff308af9c011f9247eabc44f84",
+      "installedAt": "2026-09-07T02:16:24.654Z"
+    },
+    "recent-notes": {
+      "source": "github:quartz-community/recent-notes",
+      "resolved": "https://github.com/quartz-community/recent-notes.git",
+      "commit": "2c36e87f151431b7fb05a486705adfa790126622",
+      "installedAt": "2026-09-07T02:08:48.042Z"
     }
   }
 }
