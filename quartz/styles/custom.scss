@@ -57,11 +57,8 @@
 }
 
 
-/* --------------------------------------------------
-   PIN SIDEBAR LEFT WHILE KEEPING THE CONTENT CENTERED
-   -------------------------------------------------- */
-
-#quartz-body {
+/* PIN SIDEBAR LEFT WHILE KEEPING THE CONTENT CENTERED */
+#quartz-body:not(:has([class*="canvas"])) {
   display: grid !important;
   grid-template-columns: 320px 1fr !important;
   width: 100% !important;
@@ -69,7 +66,7 @@
 }
 
 /* Sidebar pinned flush left and forced to full viewport height */
-.left.sidebar {
+.left.sidebar:not([class*="canvas"]) {
   width: 320px !important;
   min-width: 320px !important;
   padding-top: 0.5rem !important;
@@ -346,10 +343,9 @@
 }
 
 /* Constrain article text width */
-.center > *,
-article,
-article > *,
-.popover-hint {
+.center > *:not([class*="canvas"]),
+article:not([class*="canvas"]) > *,
+.popover-hint:not([class*="canvas"]) {
   width: 100% !important;
   max-width: 620px !important;
   margin-left: auto !important;
