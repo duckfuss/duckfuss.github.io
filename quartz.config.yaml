@@ -315,6 +315,8 @@ plugins:
       title: Tags
       showUntagged: false
       untaggedLabel: Untagged
+      excludeTags:
+        - "a-level"
     order: 50
     layout:
       position: left
