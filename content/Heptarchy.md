@@ -1,7 +1,9 @@
 ---
 share: true
+tags:
+  - topic/history
 ---
-  #topic/history 
+  
 
 - ## What is a Heptarchy?
 	- the seven kingdoms of anglo-saxon England
