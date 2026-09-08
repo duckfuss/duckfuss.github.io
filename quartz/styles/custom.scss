@@ -533,8 +533,11 @@ article:not([class*="canvas"]) > *,
 /* Force connecting edges to be visible (covers both line and path) */
 .graph svg line,
 .graph svg path,
-.graph .link {
-  stroke: var(--gray) !important;
+.graph .link,
+svg .link,
+svg line,
+svg path {
+  stroke: #b8b8b8 !important;
   stroke-width: 2px !important;
   stroke-opacity: 1 !important;
   opacity: 1 !important;
