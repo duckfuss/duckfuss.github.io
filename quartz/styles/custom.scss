@@ -530,13 +530,12 @@ article:not([class*="canvas"]) > *,
   pointer-events: none !important;
 }
 
-/* Force connecting edges to be visible (covers both line and path) */
+/* Force connecting edges to be visible, overriding inline JS styles */
 .graph svg line,
 .graph svg path,
 .graph .link,
-svg .link,
-svg line,
-svg path {
+[class*="graph"] svg line,
+[class*="graph"] svg path {
   stroke: #b8b8b8 !important;
   stroke-width: 2px !important;
   stroke-opacity: 1 !important;
