@@ -80,7 +80,7 @@
     "@quartz-community/roam": "^0.1.0",
     "@quartz-community/search": "^0.1.0",
     "@quartz-community/spacer": "^0.1.0",
-    "@quartz-community/stacked-pages": "^0.1.0",
+    "@quartz-community/stacked-pages": "github:duckfuss/quartz_slidingPanels",
     "@quartz-community/syntax-highlighting": "^0.1.0",
     "@quartz-community/table-of-contents": "^0.1.0",
     "@quartz-community/tag-list": "^0.1.0",
@@ -126,8 +126,8 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
-    "@quartz-community/types": "^0.3.0",
-    "@quartz-community/utils": "^0.1.0",
+    "@quartz-community/types": "github:quartz-community/types",
+    "@quartz-community/utils": "github:quartz-community/utils",
     "@types/hast": "^3.0.4",
     "@types/node": "^26.4.1",
     "@types/pretty-time": "^1.1.5",
