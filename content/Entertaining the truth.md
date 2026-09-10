@@ -20,6 +20,8 @@ That's **21 hit pieces a day till he died.**
 
 **What was the story?**
 A story about plagiarism at top universities does **not** justify the **560% increase** in personal attacks **after** his resignation - this is a major institutional issue with our press, not an isolated edge case.
+
+---
 # The convenient truth
 News outlets like *The Daily Telegraph* or *The Guardian* can *often* ***correctly*** claim to treat *factual news* impartially, in part because UK law requires them to do so, and in part because this is of vital importance to a readership who turn to their pages with a desire to learn the truth about the world. 
 
@@ -27,6 +29,7 @@ News outlets like *The Daily Telegraph* or *The Guardian* can *often* ***correct
 
 Whilst the reports may be presented impartially, the **[[Media Framing|choice]]** of which stories to cover are most certainly **not**. Where the Guardian might choose a story about climate change or homelessness, the Telegraph might instead focus on the economy or immigration. By feeding their readership news that panders to an ideology, combined with a robust opinion section devoid of balance, a paper can effectively present a vision of the world beleaguered by the convenient problems and devoid of the inconvenient truths.
 
+---
 # Ships in the night 
 
 ## Split picture
@@ -38,8 +41,9 @@ Where reporting does overlap, reading different viewpoints only surfaces the ben
 
 When an exchange of ideas is reduced simply to a battle of wits, devolved to the point where rhetoric trumps refutation, opinions are formed on the [[Emotive Reasoning|basis of emotion]].  This can even lead to a [[Separate advocacy#The Backfire effect|backfire effect]] where reading an opposing opinion may actually *reinforce* a pre-existing viewpoint.
 
-In the 9 days following Arday's resignation, the opinion columns did not engage in a rigorous refutational debate over academic standards. Instead, one group of papers published dozens of articles attacking his character to stoke cultural outrage, whilst the opposing papers shifted the topic entirely to the cruelty of the pile-on. They were ships in the night, one screaming about academic integrity, the other about mental health, yet never directly confronting one another 
+In the 9 days following Arday's resignation, the opinion columns did not engage in a rigorous refutational debate over academic standards. Instead, one group of papers published dozens of articles attacking his character to stoke cultural outrage, whilst the opposing papers shifted the topic entirely to the cruelty of the pile-on. They were ships in the night, one screaming about academic integrity, the other about mental health, yet never directly confronting one another.
 
+---
 # The grand opinionator
 >[!question]+ 3 Questions
 >1. How often are these columns written by experts in the fields they write about?
@@ -53,7 +57,7 @@ This is a complete inversion of the scientific method, where opinion should only
 >[!quote] Specific media outlets – as well as journalists – need to be far more open about their biases and clearer about distinguishing news from comment.
 >*[[Nic Newman and Richard Fletcher - Bias, Bullshit and Lies - Report.pdf|Nic Newman et al.]]*
 
-Whilst respectable opinion columns on both sides *will* surface evidence and statistics to back their claims, respectable opinion columns on both sides *are **able to*** surface evidence and statistics to back their claims. 
+Whilst respectable opinion columns on both sides *will* surface evidence and statistics to back their claims, respectable opinion columns on both sides ***can*** surface evidence and statistics to back their claims. 
 There is **no** neutral meta-analysis, **no** equal assessment of facts, **no** opportunity for the reader to even see all the facts. Rather the job of an opinion writer is to construct the illusion of evidence stacking up to support their thesis. 
 
 >[!question]- 3 questions...
@@ -73,6 +77,7 @@ The problems with first goal have been laboured at great length already, but the
 
 A more cynical argument might claim that this is all some malevolent machiavellian manipulation aimed at brainwashing their readership, however it should be stressed this is **not** the point being made here. There is no dastardly plot, but rather the natural effect of paying an ideologue to present topics of which they are no expert to an impatient audience.
 
+---
 # Echo chambers
 Though much has been written about the effects of an echo chamber, often overlooked is the significant difficulty in noticing one from the inside. With an open mind and an honest conscience we must all consider the possibility that our partisan sources of news represent an echo chamber, that what we consider trustworthy and thus the lens with through we interpret our world may instead be structurally designed to amplify what we are already predisposed to believe. In addition [[Separate advocacy#The Backfire effect|the backfire effect]] demonstrates that even reading contrarian sources of news that specifically do not engage in [[Separate advocacy#The importance of refutation|refutation]] can entrench a strongly held opposition. 
 
@@ -88,11 +93,13 @@ These papers *increased* [their publications after the resignation](https://news
 ![[Screenshot 2026-09-10 at 23.46.21.png|377]]
 **Are you really being *"informed"* about the *"important"* issues in the country?**
 **Are you angry because they told you to be?**
+
+---
 # Anechoic chambers
 There is a solution: **neutral news**. 
 Neutrality, or at least the genuine aspiration for it within an organisation, guarantees the lack of any ideological narrative, and so can be treated truly as a source of *news* not a source of *opinion*. Furthermore, the neutral source can provide two opinions **and their counterargument** with no vested interest, something reading two parallel monologues leaves you unable to see. As a neutral source has no incentive to cherry pick facts or subtly manipulate statistics, what's left is the truth, the whole truth, and nothing but the truth. Of course this hypothetical neutral source is aspirational, organisations like the BBC have their [[FalseBalance-BMJ.pdf|issues]], the purpose of this essay is simply to advocate that this be our aspiration, that we should always pursue neutrality in news. 
 
 # The end
 
-Opinion press is not news, it's entertainment. An ideology should never be the starting point, and yet these organisations are structurally incapable of changing their minds, even in the face of evidence. Thus, to present their convenient facts they must first contort them to fit whatever narrative they spin. These opposing narratives offer only separate advocacy, they never genuinely refute one another, leaving a reader stuck with a pile of spun facts and tangled narratives. 
+Opinion press is not news, it's entertainment. An ideology should never be the starting point, and yet these organisations are structurally incapable of changing their minds, even in the face of evidence. Thus, to present their convenient facts they must first contort them to fit whatever narrative they spin. These opposing narratives offer only separate advocacy, they never genuinely refute one another, leaving us stuck with a pile of spun facts and tangled narratives. 
 We are left consuming opinions disguised as facts, forgetting that the truth does not require a narrative.
