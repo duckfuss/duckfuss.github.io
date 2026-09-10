@@ -1,6 +1,6 @@
 ---
 share: true
 ---
-[[opinionated news|opinionated news]]
+[[opinionated news - draft|opinionated news - draft]]
 [[History.canvas|History.canvas]]
 [[canvas embed test|canvas embed test]]
