@@ -2,7 +2,8 @@
 @use "sass:color";
 
 .callout {
-  border: 1px solid var(--border);
+  border: none;
+  border-left: 4px solid var(--color);
   background-color: var(--bg);
   border-radius: 5px;
   padding: 0 1rem;
@@ -36,23 +37,20 @@
 
   &[data-callout] {
     --color: #448aff;
-    --border: #448aff44;
-    --bg: #448aff10;
+    --bg: #448aff1a;
     --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
     --color: #00b0ff;
-    --border: #00b0ff44;
-    --bg: #00b0ff10;
+    --bg: #00b0ff1a;
     --callout-icon: var(--callout-icon-abstract);
   }
 
   &[data-callout="info"],
   &[data-callout="todo"] {
     --color: #00b8d4;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+    --bg: #00b8d41a;
     --callout-icon: var(--callout-icon-info);
   }
 
@@ -62,29 +60,25 @@
 
   &[data-callout="tip"] {
     --color: #00bfa5;
-    --border: #00bfa544;
-    --bg: #00bfa510;
+    --bg: #00bfa51a;
     --callout-icon: var(--callout-icon-tip);
   }
 
   &[data-callout="success"] {
     --color: #09ad7a;
-    --border: #09ad7144;
-    --bg: #09ad7110;
+    --bg: #09ad711a;
     --callout-icon: var(--callout-icon-success);
   }
 
   &[data-callout="question"] {
     --color: #dba642;
-    --border: #dba64244;
-    --bg: #dba64210;
+    --bg: #dba6421a;
     --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
     --color: #db8942;
-    --border: #db894244;
-    --bg: #db894210;
+    --bg: #db89421a;
     --callout-icon: var(--callout-icon-warning);
   }
 
@@ -92,8 +86,7 @@
   &[data-callout="danger"],
   &[data-callout="bug"] {
     --color: #db4242;
-    --border: #db424244;
-    --bg: #db424210;
+    --bg: #db42421a;
     --callout-icon: var(--callout-icon-failure);
   }
 
@@ -107,14 +100,13 @@
 
   &[data-callout="example"] {
     --color: #7a43b5;
-    --border: #7a43b544;
-    --bg: #7a43b510;
+    --bg: #7a43b51a;
     --callout-icon: var(--callout-icon-example);
   }
 
   &[data-callout="quote"] {
     --color: var(--secondary);
-    --border: var(--lightgray);
+    --bg: #8080801a;
     --callout-icon: var(--callout-icon-quote);
   }
 

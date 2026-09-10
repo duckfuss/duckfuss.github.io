@@ -31,6 +31,31 @@
     background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
+    flex-direction: column !important;
+    height: 100vh !important;
+    overflow: hidden !important;
+  }
+
+  /* Desktop only: show sidebar inline in grid */
+  @media screen and (min-width: 1101px) {
+    .left.sidebar {
+      display: flex !important;
+    }
+  }
+
+  /* Make TOC fill available height and scroll */
+  .left.sidebar > .toc {
+    flex: 1 1 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 0 !important;
+    overflow-y: auto !important;
+  }
+
+  /* Remove 32vh cap so TOC content fills available space */
+  .left.sidebar > .toc:not(:has(button.toc-header.collapsed)) > .toc-content {
+    max-height: none !important;
+    flex: 1 1 auto !important;
   }
 
   /* Hide everything in left sidebar EXCEPT Table of Contents */
@@ -77,15 +102,27 @@
   }
 }
 
-/* Sidebar pinned flush left and forced to full viewport height */
-body:not(.hamburger-sidebar-open) .left.sidebar:not([class*="canvas"]) {
+/* Sidebar pinned flush left — desktop only */
+@media screen and (min-width: 1101px) {
+  body:not(.hamburger-sidebar-open) .left.sidebar:not([class*="canvas"]) {
+    width: 320px !important;
+    min-width: 320px !important;
+    padding-top: 0.5rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100vh !important;
+    overflow: hidden !important;
+  }
+}
+
+/* Ensure sidebar looks like desktop sidebar when open via hamburger */
+body.hamburger-sidebar-open .left.sidebar:not([class*="canvas"]) {
   width: 320px !important;
   min-width: 320px !important;
-  padding-top: 0.5rem !important;
-  display: flex !important;
   flex-direction: column !important;
-  height: 100vh !important;
-  overflow: hidden !important;
+  align-items: stretch !important;
+  padding-top: 0.5rem !important;
+  gap: 1.2rem !important;
 }
 
 /* Table of Contents: takes only needed height, scrolls if long */
@@ -591,7 +628,13 @@ blockquote {
   padding-bottom: 0.5rem !important;
   padding-left: 1.5rem !important;
 
-  background-color: transparent !important;
+  background-color: #3b82f60d !important;
+}
+
+.callout {
+  background-color: var(--bg) !important;
+  border: none !important;
+  border-left: 4px solid var(--color) !important;
 }
 
 /* Ensure nested elements inside the embed don't break the spacing */
