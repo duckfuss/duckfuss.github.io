@@ -20,6 +20,7 @@ Furthermore there is evidence to suggest that [[Exposure to opposing views on so
 ![[nyhan-reifler.pdf|nyhan-reifler.pdf]]
 ![[Exposure to opposing views on social media can increase political polarization-2 1.pdf|Exposure to opposing views on social media can increase political polarization-2 1.pdf]]
 
+
 ## Lack of accurate persuasion
 >[!quote] Compared with one-sided messages, refutational two-sided messages on nonadvertising topics enjoy significantly greater credibility and persuasiveness.
   https://academic.oup.com/anncom/article-abstract/22/1/209/7850315?login=false
