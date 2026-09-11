@@ -648,3 +648,14 @@ blockquote {
 .internal-embed > * {
   margin-top: 0 !important;
 }
+
+/* Heading spacing: more above, less below (Obsidian-like) */
+.page-header header {
+  margin-top: 3rem !important;
+  margin-bottom: 0 !important;
+}
+
+.center h1, .center h2, .center h3, .center h4, .center h5, .center h6 {
+  margin-top: 2.5rem !important;
+  margin-bottom: 0.25rem !important;
+}
