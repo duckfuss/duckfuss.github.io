@@ -77,7 +77,7 @@
 /* Responsive fallback: prevent squishing text when browser window narrows */
 @media screen and (max-width: 1100px) {
   #quartz-body:has(> .center > article.toc-only) {
-    grid-template-columns: 240px 1fr !important;
+    grid-template-columns: 1fr !important;
   }
 }
 
@@ -94,7 +94,11 @@
 @media screen and (max-width: 1100px) {
   #quartz-body:not(:has([class*="canvas"])) {
     grid-template-columns: 1fr !important;
-    grid-template-areas: "center" !important;
+    grid-template-areas: "center" "grid-footer" !important;
+  }
+
+  .center {
+    align-items: stretch !important;
   }
 
   body:not(.hamburger-sidebar-open) .left.sidebar:not([class*="canvas"]) {
@@ -396,15 +400,17 @@ body.hamburger-sidebar-open .left.sidebar:not([class*="canvas"]) {
   box-sizing: border-box !important;
 }
 
-/* Constrain article text width */
-.center > *:not([class*="canvas"]),
-article:not([class*="canvas"]) > *,
-.popover-hint:not([class*="canvas"]) {
-  width: 100% !important;
-  max-width: 620px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  box-sizing: border-box !important;
+/* Constrain article text width — desktop only */
+@media screen and (min-width: 1101px) {
+  .center > *:not([class*="canvas"]),
+  article:not([class*="canvas"]) > *,
+  .popover-hint:not([class*="canvas"]) {
+    width: 100% !important;
+    max-width: 620px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box !important;
+  }
 }
 
 /* --------------------------------------------------
