@@ -15,7 +15,9 @@ cssclasses:
 # Outrage machine
 
 After 13 days, and under the weight of **41** news articles, Jason Arday resigned.
+
 **9 days** later, after a **further** **188** hit-pieces, he ended his life. 
+
 That's **21 hit pieces a day till he died.**
 
 **What was the story?**
@@ -48,8 +50,7 @@ In the 9 days following Arday's resignation, the opinion columns did not engage 
 >3. How do you know to trust their opinion?
 
 Opinion writers are employed to have an opinion, not to be an expert in every field they may cover (*for this is simply not possible*). **But** most presciently, they are journalists at a partisan media organisation and so approach each topic with an obvious and clear political predisposition. 
-The problem is their ideology informs their opinion on the world. 
-This is a complete inversion of the scientific method, where opinion should only ever be formed from evidence, not a fallible logic like political ideology. 
+The problem is their ideology informs their opinion on the world. This is a complete inversion of the scientific method, where opinion should only ever be formed from evidence, not a fallible logic like political ideology. 
 
 >[!quote] Specific media outlets – as well as journalists – need to be far more open about their biases and clearer about distinguishing news from comment.
 >*[[Nic Newman and Richard Fletcher - Bias, Bullshit and Lies - Report.pdf|Nic Newman et al.]]*
@@ -68,7 +69,7 @@ These self-appointed public opinionators are characteristically witty, persuasiv
 >1. Convince the reader of their point of view
 >2. Convince the reader to stay stay engaged and keep reading
 
-The problems with first goal have been laboured at great length already, but the second, the reason why they need to be witty, why they need to drive emotion and boil their audience's blood, is far more sinister. It places the incentives in all the wrong places, for whilst engagement is best motivated by emotion, the telling of the truth is characterised only through dry facts. An opinion columnist cannot simply tell any regular opinion for fear their audience already know and lose interest. Rather they must concoct something unusual, something that their audience can still agree with and be motivated to read through. Unfortunately this means rational and obvious explanations are often disregarded for slightly more radical ones. Though a reader may not initially agree, they will certainly read on for the entertainment value. Those 21 hit-pieces published daily until his death were not born from a sudden, necessary influx of new facts. They were created to keep the audience’s blood boiling, for only by pushing the rhetoric are they able to secure their engagement. This is not a newspaper but a **deadly** outrage machine.
+The problems with first goal have been laboured at great length already, but the second, the reason why they need to be witty, why they need to drive emotion and boil their audience's blood, is far more sinister. It places the incentives in all the wrong places, for whilst engagement is best motivated by emotion, the telling of the truth is characterised only through dry facts. An opinion columnist cannot simply tell any regular opinion for fear their audience already know and lose interest. Rather they must concoct something unusual, something that their audience can still agree with and be motivated to read through. Unfortunately this means rational and obvious explanations are often disregarded for slightly more radical ones. Though a reader may not initially agree, they will certainly read on for the entertainment value. Those 21 hit-pieces published daily until Arday's death were not born from a sudden, necessary influx of new facts. They were created to keep the audience’s blood boiling, for only by pushing the rhetoric are they able to secure their engagement. This is not a newspaper but a **deadly** outrage machine.
 
 >[!quote] "It is not the truth that men want, but an illusion they can believe in." - Nietzsche
 
@@ -78,17 +79,19 @@ A more cynical argument might claim that this is all some malevolent machiavelli
 Though much has been written about the effects of an echo chamber, often overlooked is the significant difficulty in noticing one from the inside. With an open mind and an honest conscience we must all consider the possibility that our partisan sources of news represent an echo chamber, that what we consider trustworthy and thus the lens with through we interpret our world may instead be structurally designed to amplify what we are already predisposed to believe. In addition [[Separate advocacy#The Backfire effect|the backfire effect]] demonstrates that even reading contrarian sources of news that specifically do not engage in [[Separate advocacy#The importance of refutation|refutation]] can entrench a strongly held opposition. 
 
 >[!example]- For example:
+>
 >| Source        | "News" stories on Jason Arday |
-| ------------- | ----------------------------- |
-| The Telegraph | 42                            |
-| The Times     | 41                            |
-| The Guardian  | 18                            |
-| BBC News      | 9                             |
-| Sky News      | 2                             |
-These papers *increased* [their publications after the resignation](https://newscord.org/editorials/jason-arday-pile-on)
-![[Screenshot 2026-09-10 at 23.46.21.png|377]]
-**Are you really being *"informed"* about the *"important"* issues in the country?**
-**Are you angry because they told you to be?**
+>| ------------- | ----------------------------- |
+>| The Telegraph | 42                            |
+>| The Times     | 41                            |
+>| The Guardian  | 18                            |
+>| BBC News      | 9                             |
+>| Sky News      | 2                             |
+>
+>These papers *increased* [their publications after the resignation](https://newscord.org/editorials/jason-arday-pile-on)
+>![[Screenshot 2026-09-10 at 23.46.21.png|377]]
+>**Are you really being *"informed"* about the *"important"* issues in the country?**
+>**Are you angry because they told you to be?**
 
 # Anechoic chambers
 There is a solution: **neutral news**. 
