@@ -104,66 +104,6 @@ export default (() => {
             return resource
           }
         })}
-        <script dangerouslySetInnerHTML={{ __html: `
-(function(){
-  var log=[],strokeCalls=0,clearCalls=0,canvasFound=false,webglInfo='pending';
-  function addLog(m){log.push('['+new Date().toLocaleTimeString()+'] '+m);if(log.length>80)log.shift();}
-  function makeBtn(){
-    var b=document.createElement('button');b.textContent='DBG';b.style.cssText='position:fixed;bottom:10px;right:10px;z-index:100000;background:#222;color:#0f0;border:1px solid #0f0;padding:4px 8px;font:10px monospace;border-radius:4px;cursor:pointer;';
-    var o=document.createElement('div');o.id='gdbg';o.style.cssText='position:fixed;bottom:36px;right:10px;z-index:99999;background:rgba(0,0,0,0.92);color:#0f0;font:11px/1.4 monospace;padding:10px;border-radius:6px;max-width:440px;max-height:400px;overflow:auto;display:none;white-space:pre-wrap;';
-    b.onclick=function(){o.style.display=o.style.display==='none'?'block':'none';};
-    document.body.appendChild(o);document.body.appendChild(b);
-    return o;
-  }
-  function render(o){
-    var s=['=== GRAPH DEBUG ===','PIXI loaded: '+(typeof PIXI!=='undefined'),'D3 loaded: '+(typeof d3!=='undefined'),'Canvas found: '+canvasFound,'WebGL: '+webglInfo,'stroke() total: '+strokeCalls,'clear() total: '+clearCalls,'','--- Log ---'];
-    s=s.concat(log.slice(-30));
-    o.textContent=s.join('\\n');
-  }
-  var patched=false;
-  function patch(){
-    if(patched)return;
-    if(!window.PIXI||!PIXI.Graphics){setTimeout(patch,300);return;}
-    patched=true;
-    addLog('PIXI.Graphics found, patching...');
-    var origStroke=PIXI.Graphics.prototype.stroke;
-    PIXI.Graphics.prototype.stroke=function(st){
-      strokeCalls++;
-      if(strokeCalls<=15){addLog('stroke#'+strokeCalls+': '+JSON.stringify(st));}
-      return origStroke.call(this,st);
-    };
-    if(PIXI.GraphicsContext&&PIXI.GraphicsContext.prototype){
-      var origClear=PIXI.GraphicsContext.prototype.clear;
-      PIXI.GraphicsContext.prototype.clear=function(){
-        clearCalls++;
-        return origClear.call(this);
-      };
-    }
-    addLog('patched OK');
-  }
-  function checkCanvas(){
-    var c=document.querySelectorAll('canvas');
-    if(c.length>0){
-      canvasFound=true;
-      var cv=c[0];addLog('Canvas: '+cv.width+'x'+cv.height+', dpr='+window.devicePixelRatio);
-      var gc=cv.closest('.graph-container');
-      if(gc){var r=gc.getBoundingClientRect();addLog('Container: '+Math.round(r.width)+'x'+Math.round(r.height)+' overflow='+getComputedStyle(gc).overflow);}
-    }
-  }
-  try{
-    var testCanvas=document.createElement('canvas');
-    var gl=testCanvas.getContext('webgl2')||testCanvas.getContext('webgl');
-    if(gl){webglInfo=gl.getParameter(gl.RENDERER)+' | '+gl.getParameter(gl.VERSION);gl.getExtension('WEBGL_lose_context')&&gl.getExtension('WEBGL_lose_context').loseContext();}
-    else{webglInfo='UNAVAILABLE';}
-  }catch(e){webglInfo='err:'+e.message;}
-  patch();
-  document.addEventListener('DOMContentLoaded',function(){
-    var o=makeBtn();
-    setTimeout(function(){patch();checkCanvas();render(o);},3000);
-    setTimeout(function(){patch();checkCanvas();addLog('Final: strokes='+strokeCalls+' clears='+clearCalls);render(o);},8000);
-  });
-})();
-` }} />
       </head>
     )
   }
